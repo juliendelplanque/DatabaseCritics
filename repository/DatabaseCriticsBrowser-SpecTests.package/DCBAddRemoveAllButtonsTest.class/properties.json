@@ -1,0 +1,14 @@
+{
+	"category" : "DatabaseCriticsBrowser-SpecTests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"widget" ],
+	"name" : "DCBAddRemoveAllButtonsTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

@@ -1,0 +1,3 @@
+accessing
+leftListItems
+	^ leftList getList

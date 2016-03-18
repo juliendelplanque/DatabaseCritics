@@ -1,0 +1,10 @@
+private - contents
+databaseIconContents
+	"Private - Method generated with the content of the file File @ /home/julien/Documents/Umons/Ma 1/Projet/Images/png/dcb/database.png"
+	^ 'iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABP0lEQVQ4T52SsVHDQBBFcUoE
+HYgKsCvAVADkzCB3ABUgElJDBcgVABWgAgjoAHVgnBHyntnTHJJIvDNvdLe++/v31pO935jC
+GRzCV+T8HMAbvGa5P8sJuwpaeOldTgfPWUg5JqLAB1xD80+VgvwzLOLswIGVtXoyImJrm3Dn
+uUERHTyEA0W8kIetiS34NqMCtqDFxzjU76QkcRtFBo+pgzpacAqK5VOY99T8zbewnW3kLbjP
+L1TsfRervsM3XMIxzKLYVqCFJ1jFWqECPuOy/btXfB/uoQHznQMf0ISXtJke9IJ1ZzeEKr46
+O8oF/B8YTiFdXrK+AaeUh9W7idlCGcpW8hFT6GQNp9BGUpdO7A6q5MBvAfMgHTZ3BWn+VvWM
+4STqXKAr21vYku15UeEm0K352hZ2CYUVW+4qYFFFpj/fpkfwg2sjdAAAAABJRU5ErkJggg=='

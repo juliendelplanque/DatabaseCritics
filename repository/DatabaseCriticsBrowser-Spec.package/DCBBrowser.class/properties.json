@@ -1,0 +1,24 @@
+{
+	"category" : "DatabaseCriticsBrowser-Spec-Core",
+	"classinstvars" : [
+		"IsStandalone" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"modelChecker",
+		"menu",
+		"classifier",
+		"classificationChooser",
+		"rulesChooser",
+		"exportersChooser",
+		"informationLabel",
+		"treeListButton",
+		"helpCenter",
+		"shortcutsHelp",
+		"thresholdsEditor" ],
+	"name" : "DCBBrowser",
+	"pools" : [
+		 ],
+	"super" : "DCBModel",
+	"type" : "normal" }

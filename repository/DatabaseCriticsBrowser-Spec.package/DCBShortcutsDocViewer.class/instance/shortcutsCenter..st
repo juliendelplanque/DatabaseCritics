@@ -1,0 +1,3 @@
+accessing
+shortcutsCenter: aShortcutsCenter
+	self shortcutsCenterWidget shortcutsCenter: aShortcutsCenter

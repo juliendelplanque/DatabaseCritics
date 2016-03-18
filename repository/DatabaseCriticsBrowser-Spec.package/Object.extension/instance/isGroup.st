@@ -1,0 +1,3 @@
+*DatabaseCriticsBrowser-Spec
+isGroup
+	^ false

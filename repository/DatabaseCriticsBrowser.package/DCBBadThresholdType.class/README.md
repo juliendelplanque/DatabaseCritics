@@ -1,0 +1,1 @@
+I am the error raised when a threshold is modified with a value with an incorrect type.

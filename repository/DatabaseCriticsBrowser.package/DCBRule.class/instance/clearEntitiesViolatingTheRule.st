@@ -1,0 +1,3 @@
+clearing
+clearEntitiesViolatingTheRule
+	entitiesViolatingTheRule := OrderedCollection new

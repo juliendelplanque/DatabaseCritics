@@ -1,0 +1,14 @@
+{
+	"category" : "DatabaseCriticsBrowser-Rules",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 3/17/2016 10:01",
+	"instvars" : [
+		 ],
+	"name" : "DCBDUnusedPrimaryKey",
+	"pools" : [
+		 ],
+	"super" : "DCBRule",
+	"type" : "normal" }

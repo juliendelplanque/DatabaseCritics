@@ -1,0 +1,14 @@
+{
+	"category" : "DatabaseCriticsBrowser-Rules",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 3/3/2016 07:39",
+	"instvars" : [
+		 ],
+	"name" : "DCBLowNumberOfColumns",
+	"pools" : [
+		 ],
+	"super" : "DCBRuleWithThreshold",
+	"type" : "normal" }

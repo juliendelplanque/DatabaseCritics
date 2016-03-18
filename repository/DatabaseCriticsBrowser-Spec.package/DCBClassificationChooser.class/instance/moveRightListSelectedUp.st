@@ -1,0 +1,3 @@
+shortcuts-actions
+moveRightListSelectedUp
+	self updown upButton performAction

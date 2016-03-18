@@ -1,0 +1,1 @@
+I announce the fact that a new list of rules has been chosen.

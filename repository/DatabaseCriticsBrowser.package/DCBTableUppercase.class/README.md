@@ -1,0 +1,1 @@
+PostgreSQL is case-sensitive so it may confuse the user to use uppercase character in table names.

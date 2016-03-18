@@ -1,0 +1,14 @@
+{
+	"category" : "DatabaseCriticsBrowser-Tests-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"modelChecker" ],
+	"name" : "DCBModelCheckerTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

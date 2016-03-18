@@ -1,0 +1,11 @@
+private - contents
+thresholdIconContents
+	"Private - Method generated with the content of the file File @ /home/julien/Documents/Umons/Ma 1/Projet/Images/png/dcb/threshold.png"
+	^ 'iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAAAlw
+SFlzAAAAmQAAAJkBcI9gfAAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoA
+AAEhSURBVDiNpZMxTsNAEEXfbuMuHUV8AF+ABikX4AyUVsoUvgFUNNQ5gulRlCK0tCD3HCBK
+CrdphyJ/nfEigxAjjbTj/f/PjuY7mBk+QggVcAdcKwE+lM9m9jkimBkSCUADnABTHpSpPgkT
+Bp4jbwXqgRoogags9a0XZptEkkCjizdg7l7VAZ2r58IY0KTxKz2tF+AJ2Klzq4zAK/AoTC9O
+BfAgxVqKO+AIFK5zAeyBF9W1OPcAGxWlLmMiAzNg5kSCzqU4G6R8ELEDWtd5Daxd3QoTxdlH
+JiKEcAUsgaXOkzEawXVbcdn/KrsbRoicHQZwmwnfTJw99h2yNbouC87bOAKLzAuXNf5ipILx
+Or8b6ScrZzNPW/k/P1MyxhB//Z2/AIsJ9xmyS/DrAAAAAElFTkSuQmCC'

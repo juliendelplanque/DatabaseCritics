@@ -1,0 +1,1 @@
+I am the widget used to choose how to classify the rules in the browser.

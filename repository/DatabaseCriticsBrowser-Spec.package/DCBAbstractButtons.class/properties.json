@@ -1,0 +1,15 @@
+{
+	"category" : "DatabaseCriticsBrowser-Spec-Subwidgets",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 2/23/2016 20:00",
+	"instvars" : [
+		"leftButton",
+		"rightButton" ],
+	"name" : "DCBAbstractButtons",
+	"pools" : [
+		 ],
+	"super" : "ComposableModel",
+	"type" : "normal" }

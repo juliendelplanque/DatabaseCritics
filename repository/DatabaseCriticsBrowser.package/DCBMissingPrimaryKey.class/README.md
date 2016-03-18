@@ -1,0 +1,1 @@
+A table should always have a primary key.

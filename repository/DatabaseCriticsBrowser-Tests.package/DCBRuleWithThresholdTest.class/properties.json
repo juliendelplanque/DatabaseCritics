@@ -1,0 +1,14 @@
+{
+	"category" : "DatabaseCriticsBrowser-Tests-Rules",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "DCBRuleWithThresholdTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

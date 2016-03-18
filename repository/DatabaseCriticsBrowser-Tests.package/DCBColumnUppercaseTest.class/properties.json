@@ -1,0 +1,14 @@
+{
+	"category" : "DatabaseCriticsBrowser-Tests-Rules",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "DCBColumnUppercaseTest",
+	"pools" : [
+		 ],
+	"super" : "DCBRuleTest",
+	"type" : "normal" }

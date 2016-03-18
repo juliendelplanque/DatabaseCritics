@@ -1,0 +1,3 @@
+accessing
+shortcutsCenterWidget
+	^ shortcutsCenterWidget

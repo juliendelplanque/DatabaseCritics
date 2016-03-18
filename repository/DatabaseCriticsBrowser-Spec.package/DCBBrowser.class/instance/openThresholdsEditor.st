@@ -1,0 +1,3 @@
+opening
+openThresholdsEditor
+	thresholdsEditor openWithSpec

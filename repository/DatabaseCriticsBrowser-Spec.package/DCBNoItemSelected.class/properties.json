@@ -1,0 +1,14 @@
+{
+	"category" : "DatabaseCriticsBrowser-Spec-Errors",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 2/7/2016 11:07",
+	"instvars" : [
+		 ],
+	"name" : "DCBNoItemSelected",
+	"pools" : [
+		 ],
+	"super" : "Error",
+	"type" : "normal" }

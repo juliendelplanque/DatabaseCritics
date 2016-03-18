@@ -1,0 +1,14 @@
+{
+	"category" : "DatabaseCriticsBrowser-RulesClassification",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 2/3/2016 08:54",
+	"instvars" : [
+		 ],
+	"name" : "DCBRoot",
+	"pools" : [
+		 ],
+	"super" : "DCBGroup",
+	"type" : "normal" }

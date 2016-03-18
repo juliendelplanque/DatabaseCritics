@@ -1,0 +1,14 @@
+{
+	"category" : "DatabaseCriticsBrowser-Exporter",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 2/2/2016 21:38",
+	"instvars" : [
+		 ],
+	"name" : "DCBExporter",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

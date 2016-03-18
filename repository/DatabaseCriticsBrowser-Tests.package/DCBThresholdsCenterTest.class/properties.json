@@ -1,0 +1,14 @@
+{
+	"category" : "DatabaseCriticsBrowser-Tests-Thresholds",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"thresholdCenter" ],
+	"name" : "DCBThresholdsCenterTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

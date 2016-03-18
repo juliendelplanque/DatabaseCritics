@@ -1,0 +1,3 @@
+accessing
+leftListLabel
+	^ self subclassResponsability

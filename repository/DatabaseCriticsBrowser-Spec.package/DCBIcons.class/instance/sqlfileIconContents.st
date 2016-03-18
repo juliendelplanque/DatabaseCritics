@@ -1,0 +1,9 @@
+private - contents
+sqlfileIconContents
+	"Private - Method generated with the content of the file File @ /home/julien/Documents/Umons/Ma 1/Projet/Images/png/dcb/sqlfile.png"
+	^ 'iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABC0lEQVQ4T52T4RHBQBCFpQMd
+iA50ICpAB/HfGCWgAXSQDlABKkAHMQpgNMD7zN64JBOZ2Jk3t2f3vXt7F0HjG4nS0NvnU2od
+4eEXAm8zUw7K4qXCWej5InUFEN8KQ3fKPwJw18KUpEwgUm1pM6da52a/aScPqgRiNdAEgUtj
+dv9+yD/7MgeO3FLP1YRWbm4j/xTAASffjdzWWkuA9yaYnzFC4VDHAb0QEUIE+IH9wghY3OQa
+y7Z8B4VnxCK3nViR08fCU1hYLdLaFY4CeeYVEICMdezFJsRLjIxQKYA6o3ACgQhOWCFXCuzV
+dBH6RpxovZkTnJ3sd54VscwI/Ekg5iPVD9wNH5eLndu/AaeTRBHjtNpYAAAAAElFTkSuQmCC'

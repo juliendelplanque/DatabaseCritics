@@ -1,0 +1,1 @@
+I am a widget made to select items in a list. My left list contains available items to choose and my right list contains chosen items.

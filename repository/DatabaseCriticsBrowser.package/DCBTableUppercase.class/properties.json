@@ -1,0 +1,14 @@
+{
+	"category" : "DatabaseCriticsBrowser-Rules",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 1/28/2016 15:15",
+	"instvars" : [
+		 ],
+	"name" : "DCBTableUppercase",
+	"pools" : [
+		 ],
+	"super" : "DCBRule",
+	"type" : "normal" }

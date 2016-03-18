@@ -1,0 +1,3 @@
+accessing
+needAtLeastOneElementInRightList: anObject
+	needAtLeastOneElementInRightList := anObject

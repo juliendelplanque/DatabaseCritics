@@ -1,0 +1,3 @@
+accessing
+leftListInitialItems
+	^ self subclassResponsability

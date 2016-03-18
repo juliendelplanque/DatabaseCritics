@@ -1,0 +1,9 @@
+private - contents
+exportIconContents
+	"Private - Method generated with the content of the file File @ /home/julien/Documents/Umons/Ma 1/Projet/Images/png/dcb/export.png"
+	^ 'iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA8klEQVQ4T5WTARHCMAxFmQMc
+gAOYAjYFgANwsDkABeAAJOCASUDCcIAD+O+uK6FkHMvdv7Vp+pJ0bTZ6W6vhxMzT4UWOrfSw
+C5mZPDWupZsDOco3C2ulhaQAFhsHgA9wIZEoQoYAgFDJObS61rcdCtiF6oAspXwIYOG0VvYB
+ViGYk8emQZZBO5UFUBYlttJGOkn8NvyeNcRbQBoEhCwHae8QImAegrwsXencD2DWImAsL5DU
+8NPGXeJM2j6Al5nNV4kWC+nj+oYNsYIOQBDB3DjKBVL1bGbPF6C7oiz8Yy6AjN5j8oBUWdvf
+yCH9es4eJH8BqHFA4VBD7t4AAAAASUVORK5CYII='

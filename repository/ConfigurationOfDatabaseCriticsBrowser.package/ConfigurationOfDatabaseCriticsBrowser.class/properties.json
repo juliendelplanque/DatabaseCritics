@@ -1,0 +1,14 @@
+{
+	"category" : "ConfigurationOfDatabaseCriticsBrowser",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"LastVersionLoad" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"project" ],
+	"name" : "ConfigurationOfDatabaseCriticsBrowser",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

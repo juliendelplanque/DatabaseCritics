@@ -1,0 +1,10 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "JulienDelplanque 2/23/2016 21:26",
+		"testApplyAction" : "JulienDelplanque 2/6/2016 21:39",
+		"testApplyButton" : "JulienDelplanque 2/7/2016 17:39",
+		"testCancelAction" : "JulienDelplanque 2/6/2016 21:40",
+		"testCancelButton" : "JulienDelplanque 2/7/2016 17:39",
+		"testOkButton" : "JulienDelplanque 2/7/2016 17:39" } }

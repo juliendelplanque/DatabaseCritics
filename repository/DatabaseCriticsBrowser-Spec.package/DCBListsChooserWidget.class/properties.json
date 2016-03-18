@@ -1,0 +1,17 @@
+{
+	"category" : "DatabaseCriticsBrowser-Spec-Subwidgets",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 1/31/2016 13:56",
+	"instvars" : [
+		"leftList",
+		"rightList",
+		"leftLabel",
+		"rightLabel" ],
+	"name" : "DCBListsChooserWidget",
+	"pools" : [
+		 ],
+	"super" : "ComposableModel",
+	"type" : "normal" }

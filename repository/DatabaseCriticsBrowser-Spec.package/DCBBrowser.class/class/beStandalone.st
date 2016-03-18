@@ -1,0 +1,3 @@
+accessing
+beStandalone
+	IsStandalone := true

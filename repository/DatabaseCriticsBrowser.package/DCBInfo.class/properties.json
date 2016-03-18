@@ -1,0 +1,14 @@
+{
+	"category" : "DatabaseCriticsBrowser-Severity",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 2/10/2016 16:35",
+	"instvars" : [
+		 ],
+	"name" : "DCBInfo",
+	"pools" : [
+		 ],
+	"super" : "DCBSeverity",
+	"type" : "normal" }

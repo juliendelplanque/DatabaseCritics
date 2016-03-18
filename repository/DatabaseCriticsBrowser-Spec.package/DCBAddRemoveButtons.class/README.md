@@ -1,0 +1,1 @@
+I am a widget containing a add button and a left button.

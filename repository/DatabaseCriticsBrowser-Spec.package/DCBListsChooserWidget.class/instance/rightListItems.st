@@ -1,0 +1,3 @@
+accessing
+rightListItems
+	^ rightList getList

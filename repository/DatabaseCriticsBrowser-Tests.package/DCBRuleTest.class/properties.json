@@ -1,0 +1,17 @@
+{
+	"category" : "DatabaseCriticsBrowser-Tests-Rules",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"model",
+		"astBuilder",
+		"visitorDef",
+		"visitorRef" ],
+	"name" : "DCBRuleTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

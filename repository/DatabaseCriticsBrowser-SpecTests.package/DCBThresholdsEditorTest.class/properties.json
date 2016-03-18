@@ -1,0 +1,14 @@
+{
+	"category" : "DatabaseCriticsBrowser-SpecTests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"thresholdsEditor" ],
+	"name" : "DCBThresholdsEditorTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

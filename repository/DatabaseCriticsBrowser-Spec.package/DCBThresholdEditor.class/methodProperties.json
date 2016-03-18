@@ -1,0 +1,18 @@
+{
+	"class" : {
+		"defaultSpec" : "JulienDelplanque 3/3/2016 09:44",
+		"ruleClass:" : "JulienDelplanque 3/2/2016 22:10" },
+	"instance" : {
+		"cancelApply" : "JulienDelplanque 3/3/2016 07:04",
+		"definedThreshold" : "JulienDelplanque 3/10/2016 14:02",
+		"emptyDefinedText" : "JulienDelplanque 3/10/2016 14:02",
+		"initializePresenter" : "JulienDelplanque 3/3/2016 10:07",
+		"initializeWidgets" : "JulienDelplanque 3/3/2016 09:44",
+		"inputField" : "JulienDelplanque 3/3/2016 07:04",
+		"label" : "JulienDelplanque 3/3/2016 07:52",
+		"ruleClass" : "JulienDelplanque 3/2/2016 22:10",
+		"ruleClass:" : "JulienDelplanque 3/10/2016 14:07",
+		"undefinedCheck" : "JulienDelplanque 3/3/2016 09:44",
+		"undefinedText" : "JulienDelplanque 3/10/2016 14:01",
+		"undefinedThreshold" : "JulienDelplanque 3/10/2016 14:01",
+		"updateThreshold" : "JulienDelplanque 3/10/2016 14:18" } }

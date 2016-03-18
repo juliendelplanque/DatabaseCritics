@@ -1,0 +1,17 @@
+{
+	"class" : {
+		"appliableSubclasses" : "JulienDelplanque 3/2/2016 21:56",
+		"isApplicable" : "JulienDelplanque 3/2/2016 21:56" },
+	"instance" : {
+		"acceptEntity:" : "JulienDelplanque 1/28/2016 14:38",
+		"acceptEntityClass:" : "JulienDelplanque 1/28/2016 14:38",
+		"acceptedClass" : "JulienDelplanque 1/28/2016 14:39",
+		"addViolatingEntity:" : "JulienDelplanque 1/28/2016 14:39",
+		"check:" : "JulienDelplanque 1/28/2016 14:41",
+		"clearEntitiesViolatingTheRule" : "JulienDelplanque 3/3/2016 13:28",
+		"description" : "JulienDelplanque 3/9/2016 14:46",
+		"entitiesViolatingTheRule" : "JulienDelplanque 1/28/2016 14:41",
+		"initialize" : "JulienDelplanque 3/3/2016 13:37",
+		"ruleName" : "JulienDelplanque 3/9/2016 14:46",
+		"runOn:" : "JulienDelplanque 1/28/2016 14:43",
+		"severity" : "OlivierAuverlot 2/23/2016 14:16" } }

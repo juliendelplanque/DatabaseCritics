@@ -1,0 +1,3 @@
+opening
+openShortcutsHelp
+	shortcutsHelp openWithSpec

@@ -1,0 +1,14 @@
+{
+	"category" : "DatabaseCriticsBrowser-SpecTests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"widget" ],
+	"name" : "DCBUpDownButtonsTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

@@ -1,0 +1,3 @@
+shortcuts-actions
+moveSelectedFromLeftToRightList
+	self addRemoveWidget addButton performAction

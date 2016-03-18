@@ -1,0 +1,3 @@
+output
+output
+	^ outputStream contents

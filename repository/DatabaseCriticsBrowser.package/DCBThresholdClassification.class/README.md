@@ -1,0 +1,1 @@
+I classify rules according to the fact they use a threshold or not.

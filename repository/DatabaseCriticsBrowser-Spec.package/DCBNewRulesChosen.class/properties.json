@@ -1,0 +1,14 @@
+{
+	"category" : "DatabaseCriticsBrowser-Spec-Announcements",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 1/30/2016 11:12",
+	"instvars" : [
+		"rules" ],
+	"name" : "DCBNewRulesChosen",
+	"pools" : [
+		 ],
+	"super" : "Announcement",
+	"type" : "normal" }

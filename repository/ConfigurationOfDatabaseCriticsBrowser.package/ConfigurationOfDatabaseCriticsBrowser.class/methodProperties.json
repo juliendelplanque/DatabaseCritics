@@ -1,0 +1,22 @@
+{
+	"class" : {
+		"DevelopmentSupport" : "JulienDelplanque 1/30/2016 11:47",
+		"baseConfigurationClassIfAbsent:" : "JulienDelplanque 1/30/2016 11:47",
+		"ensureMetacello" : "JulienDelplanque 1/30/2016 11:47",
+		"ensureMetacelloBaseConfiguration" : "JulienDelplanque 1/30/2016 11:47",
+		"isMetacelloConfig" : "JulienDelplanque 1/30/2016 11:47",
+		"load" : "JulienDelplanque 1/30/2016 11:47",
+		"loadBleedingEdge" : "JulienDelplanque 1/30/2016 11:47",
+		"loadDevelopment" : "JulienDelplanque 1/30/2016 11:47",
+		"project" : "JulienDelplanque 1/30/2016 11:47",
+		"validate" : "JulienDelplanque 1/30/2016 11:47" },
+	"instance" : {
+		"baseline01:" : "JulienDelplanque 2/3/2016 14:35",
+		"baseline02:" : "JulienDelplanque 2/8/2016 14:46",
+		"baseline03:" : "JulienDelplanque 2/24/2016 16:11",
+		"customProjectAttributes" : "JulienDelplanque 1/30/2016 11:47",
+		"development:" : "JulienDelplanque 2/23/2016 15:53",
+		"project" : "JulienDelplanque 1/30/2016 11:47",
+		"stable:" : "JulienDelplanque 2/8/2016 14:48",
+		"version01:" : "JulienDelplanque 2/3/2016 17:50",
+		"version02:" : "JulienDelplanque 2/8/2016 14:52" } }

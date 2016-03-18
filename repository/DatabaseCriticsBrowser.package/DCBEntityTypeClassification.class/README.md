@@ -1,0 +1,1 @@
+I classify rules according to the type of entity the rule test.

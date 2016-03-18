@@ -1,0 +1,21 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "JulienDelplanque 2/6/2016 21:51",
+		"testDisplayBlock" : "JulienDelplanque 2/7/2016 15:53",
+		"testLeftLabelText" : "JulienDelplanque 2/6/2016 21:51",
+		"testLeftListAdd" : "JulienDelplanque 2/6/2016 21:54",
+		"testLeftListItems" : "JulienDelplanque 2/6/2016 21:54",
+		"testLeftListRemove" : "JulienDelplanque 2/6/2016 21:56",
+		"testLeftListSelectedIndex" : "JulienDelplanque 2/7/2016 11:06",
+		"testLeftListSelectedItem" : "JulienDelplanque 2/7/2016 17:46",
+		"testLeftListSize" : "JulienDelplanque 2/7/2016 17:55",
+		"testRightLabelText" : "JulienDelplanque 2/6/2016 21:58",
+		"testRightListAdd" : "JulienDelplanque 2/6/2016 21:58",
+		"testRightListItems" : "JulienDelplanque 2/6/2016 21:59",
+		"testRightListRemove" : "JulienDelplanque 2/6/2016 22:00",
+		"testRightListSelectedIndex" : "JulienDelplanque 2/7/2016 17:46",
+		"testRightListSelectedItem" : "JulienDelplanque 2/6/2016 22:00",
+		"testRightListSize" : "JulienDelplanque 2/7/2016 17:56",
+		"testSortingBlock" : "JulienDelplanque 2/7/2016 15:54" } }

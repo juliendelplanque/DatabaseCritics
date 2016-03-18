@@ -1,0 +1,14 @@
+{
+	"category" : "DatabaseCriticsBrowser-Tests-RulesClassification",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "DCBNoClassificationTest",
+	"pools" : [
+		 ],
+	"super" : "DCBRuleClassificationTest",
+	"type" : "normal" }

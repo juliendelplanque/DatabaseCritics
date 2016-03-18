@@ -1,0 +1,1 @@
+Unused primary keys are a bad smell.

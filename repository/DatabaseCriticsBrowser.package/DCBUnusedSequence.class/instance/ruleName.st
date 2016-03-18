@@ -1,0 +1,3 @@
+accessing
+ruleName
+	^ 'Unused sequence.'

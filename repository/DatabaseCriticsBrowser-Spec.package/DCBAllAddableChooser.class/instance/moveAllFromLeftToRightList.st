@@ -1,0 +1,3 @@
+shortcuts-actions
+moveAllFromLeftToRightList
+	addRemoveWidget addAllButton performAction

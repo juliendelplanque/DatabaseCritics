@@ -1,0 +1,1 @@
+I am the widget used to edit a Threshold.

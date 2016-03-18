@@ -1,0 +1,1 @@
+I am a widget containing a add button, a add all button, a remove button and a remove all button.

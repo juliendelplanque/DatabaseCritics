@@ -1,0 +1,10 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testEquals" : "JulienDelplanque 3/9/2016 14:50",
+		"testGreater" : "JulienDelplanque 3/9/2016 14:51",
+		"testGreaterOrEquals" : "JulienDelplanque 3/9/2016 14:52",
+		"testHash" : "JulienDelplanque 3/9/2016 14:54",
+		"testLesser" : "JulienDelplanque 3/9/2016 14:55",
+		"testLesserOrEquals" : "JulienDelplanque 3/9/2016 14:55" } }

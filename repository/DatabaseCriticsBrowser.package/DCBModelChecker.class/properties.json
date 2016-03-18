@@ -1,0 +1,15 @@
+{
+	"category" : "DatabaseCriticsBrowser-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 1/28/2016 14:59",
+	"instvars" : [
+		"model",
+		"rules" ],
+	"name" : "DCBModelChecker",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

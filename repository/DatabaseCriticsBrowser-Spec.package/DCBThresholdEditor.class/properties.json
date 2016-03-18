@@ -1,0 +1,18 @@
+{
+	"category" : "DatabaseCriticsBrowser-Spec-Subwidgets",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 3/3/2016 10:02",
+	"instvars" : [
+		"ruleClass",
+		"inputField",
+		"cancelApply",
+		"label",
+		"undefinedCheck" ],
+	"name" : "DCBThresholdEditor",
+	"pools" : [
+		 ],
+	"super" : "ComposableModel",
+	"type" : "normal" }

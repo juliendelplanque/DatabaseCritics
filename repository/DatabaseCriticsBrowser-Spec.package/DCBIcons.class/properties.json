@@ -1,0 +1,14 @@
+{
+	"category" : "DatabaseCriticsBrowser-Spec-Icons",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"Current" ],
+	"commentStamp" : "JulienDelplanque 3/3/2016 12:17",
+	"instvars" : [
+		"icons" ],
+	"name" : "DCBIcons",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

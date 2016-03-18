@@ -1,0 +1,19 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "JulienDelplanque 2/9/2016 18:10",
+		"tearDown" : "JulienDelplanque 2/9/2016 18:11",
+		"testButtonAction" : "JulienDelplanque 2/9/2016 18:19",
+		"testButtonLabel" : "JulienDelplanque 2/9/2016 18:12",
+		"testClearList" : "JulienDelplanque 2/9/2016 18:15",
+		"testListHasSelectedItem" : "JulienDelplanque 2/9/2016 18:18",
+		"testListItems" : "JulienDelplanque 2/9/2016 18:16",
+		"testListLabel" : "JulienDelplanque 2/9/2016 18:16",
+		"testListSelectedItem" : "JulienDelplanque 2/9/2016 18:20",
+		"testListUnselectItem" : "JulienDelplanque 2/9/2016 19:12",
+		"testTreeChildrenBlock" : "JulienDelplanque 2/9/2016 19:13",
+		"testTreeDisplayBlock" : "JulienDelplanque 2/9/2016 19:13",
+		"testTreeHasChildrenBlock" : "JulienDelplanque 2/9/2016 19:14",
+		"testTreeLabel" : "JulienDelplanque 2/9/2016 19:19",
+		"testTreeRoots" : "JulienDelplanque 2/9/2016 19:19" } }
