@@ -23,7 +23,7 @@ baseline: spec
 				project: 'PetitSQLIsland' with: [ 
 					spec
 						className: 'ConfigurationOfPetitSQLIsland';
-						version: #development
+						version: #development;
 						repository: 'http://smalltalkhub.com/mc/olivierauverlot/PetitSQLIsland/main' ];
 				project: 'HelpCenter' with: [ 
 					spec
