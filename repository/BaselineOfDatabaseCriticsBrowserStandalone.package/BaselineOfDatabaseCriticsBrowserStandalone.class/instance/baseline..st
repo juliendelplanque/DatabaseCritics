@@ -8,6 +8,6 @@ baseline: spec
 				package: 'DatabaseCriticsBrowser-Standalone' with: [ 
 					spec requires: 'DatabaseCriticsBrowser' ];
 				postLoadDoIt: #setDCBStandalone.
-			spec project: 'DatabaseCriticsBrowser' with: [
+			spec baseline: 'DatabaseCriticsBrowser' with: [
     			spec repository: 'github://juliendelplanque/DatabaseCriticsBrowser/repository' ].
 		]
