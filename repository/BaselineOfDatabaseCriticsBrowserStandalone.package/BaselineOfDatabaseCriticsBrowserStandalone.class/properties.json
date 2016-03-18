@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfDatabaseCriticsBrowserStandalone",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfDatabaseCriticsBrowserStandalone",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
