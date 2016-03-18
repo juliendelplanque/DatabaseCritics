@@ -7,16 +7,16 @@ baseline: spec
 			spec
 				package: 'DatabaseCriticsBrowser' with: [ 
 					spec
-						require: 'PetitSQLIsland' ];
+						requires: 'PetitSQLIsland' ];
 				package: 'DatabaseCriticsBrowser-Spec' with: [
 					spec
-						require: 'HelpCenter';
-						require: 'SpecModelsAddOns';
-						require: 'PgDumpLoader';
-						require: 'ShortcutsCenter' ];
+						requires: 'HelpCenter';
+						requires: 'SpecModelsAddOns';
+						requires: 'PgDumpLoader';
+						requires: 'ShortcutsCenter' ];
 				package: 'DatabaseCriticsBrowser-Exporter' with: [ 
 					spec
-						require: 'XMLWriter' ];
+						requires: 'XMLWriter' ];
 				package: 'DatabaseCriticsBrowser-Tests';
 				package: 'DatabaseCriticsBrowser-SpecTests'.
 			spec
