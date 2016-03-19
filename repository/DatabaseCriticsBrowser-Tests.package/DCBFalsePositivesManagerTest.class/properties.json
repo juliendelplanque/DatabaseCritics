@@ -1,0 +1,14 @@
+{
+	"category" : "DatabaseCriticsBrowser-Tests-FalsePositives",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"falsePositivesManager" ],
+	"name" : "DCBFalsePositivesManagerTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }
