@@ -25,9 +25,8 @@ baseline: spec
 						className: 'ConfigurationOfPetitSQLIsland';
 						version: #development;
 						repository: 'http://smalltalkhub.com/mc/olivierauverlot/PetitSQLIsland/main' ];
-				project: 'HelpCenter' with: [ 
-					spec baseline: 'HelpCenter' with: [
-						spec repository: 'github://juliendelplanque/HelpCenter/repository' ]. ];
+				baseline: 'HelpCenter' with: [
+					spec repository: 'github://juliendelplanque/HelpCenter/repository'  ];
 				project: 'SpecModelsAddOns' with: [ 
 					spec
 						className: 'ConfigurationOfSpecModelsAddOns';
@@ -38,9 +37,8 @@ baseline: spec
 						className: 'ConfigurationOfPgDumpLoader';
 						version: #development;
 						repository: 'http://smalltalkhub.com/mc/AnneEtien/Myrddin/main' ];
-				project: 'ShortcutsCenter' with: [ 
-					spec baseline: 'ShortcutsCenter' with: [
-						spec repository: 'github://juliendelplanque/ShortcutsCenter/repository' ]. ];
+				baseline: 'ShortcutsCenter' with: [
+						spec repository: 'github://juliendelplanque/ShortcutsCenter/repository' ];
 				project: 'XMLWriter' with: [ 
 					spec
 						className: 'ConfigurationOfXMLWriter';
