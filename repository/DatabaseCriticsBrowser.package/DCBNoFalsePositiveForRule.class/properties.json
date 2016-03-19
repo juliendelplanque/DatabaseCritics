@@ -1,0 +1,14 @@
+{
+	"category" : "DatabaseCriticsBrowser-Errors",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 3/19/2016 19:46",
+	"instvars" : [
+		"ruleClass" ],
+	"name" : "DCBNoFalsePositiveForRule",
+	"pools" : [
+		 ],
+	"super" : "Error",
+	"type" : "normal" }

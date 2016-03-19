@@ -1,16 +1,12 @@
 {
 	"class" : {
-		"buildClassifierFrom:" : "JulienDelplanque 3/19/2016 13:02",
 		"classificationName" : "JulienDelplanque 2/7/2016 10:46",
 		"rules:" : "JulienDelplanque 1/27/2016 18:56" },
 	"instance" : {
 		"groupedRules" : "JulienDelplanque 1/28/2016 14:32",
-		"groups" : "JulienDelplanque 3/19/2016 12:51",
-		"initialize" : "JulienDelplanque 3/19/2016 12:53",
+		"groups" : "JulienDelplanque 1/28/2016 16:44",
 		"root" : "JulienDelplanque 2/3/2016 08:57",
 		"rules" : "JulienDelplanque 1/27/2016 18:50",
 		"rules:" : "JulienDelplanque 1/27/2016 18:50",
-		"sortBlock" : "JulienDelplanque 3/19/2016 12:49",
-		"sortBlock:" : "JulienDelplanque 3/19/2016 12:49",
 		"subgroupClassification" : "JulienDelplanque 1/28/2016 13:25",
 		"subgroupClassification:" : "JulienDelplanque 1/28/2016 13:46" } }
