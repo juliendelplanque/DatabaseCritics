@@ -7,7 +7,7 @@ initializePresenter
 	self undefinedCheck
 		label: 'Set undefined';
 		whenActivatedDo: [ self undefinedThreshold ];
-		whenDesactivatedDo: [ self definedThreshold ].
+		whenDeactivatedDo: [ self definedThreshold ].
 	
 	self cancelApply
 		applyAction: [ self updateThreshold ];
