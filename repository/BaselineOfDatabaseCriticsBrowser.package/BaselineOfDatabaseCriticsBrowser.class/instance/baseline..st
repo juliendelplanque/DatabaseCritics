@@ -26,10 +26,8 @@ baseline: spec
 						version: #development;
 						repository: 'http://smalltalkhub.com/mc/olivierauverlot/PetitSQLIsland/main' ];
 				project: 'HelpCenter' with: [ 
-					spec
-						className: 'ConfigurationOfHelpCenter';
-						version: #development;
-						repository: 'http://smalltalkhub.com/mc/JulienDelplanque/HelpCenter/main' ];
+					spec baseline: 'HelpCenter' with: [
+						spec repository: 'github://juliendelplanque/HelpCenter/repository' ]. ];
 				project: 'SpecModelsAddOns' with: [ 
 					spec
 						className: 'ConfigurationOfSpecModelsAddOns';
@@ -41,10 +39,8 @@ baseline: spec
 						version: #development;
 						repository: 'http://smalltalkhub.com/mc/AnneEtien/Myrddin/main' ];
 				project: 'ShortcutsCenter' with: [ 
-					spec
-						className: 'ConfigurationOfShortcutsCenter';
-						version: #development;
-						repository: 'http://smalltalkhub.com/mc/JulienDelplanque/ShortcutsCenter/main' ];
+					spec baseline: 'ShortcutsCenter' with: [
+						spec repository: 'github://juliendelplanque/ShortcutsCenter/repository' ]. ];
 				project: 'XMLWriter' with: [ 
 					spec
 						className: 'ConfigurationOfXMLWriter';
