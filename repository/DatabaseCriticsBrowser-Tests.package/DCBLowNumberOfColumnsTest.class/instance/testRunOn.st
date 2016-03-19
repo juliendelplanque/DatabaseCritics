@@ -1,15 +1,7 @@
 tests-entity-checking
 testRunOn
 	| test entity entities originalThreshold |
-	self generateModelFrom: 'CREATE TABLE theme (
-    cle integer NOT NULL,
-    nom character varying(1024) NOT NULL
-);
-CREATE TABLE sujet (
-    cle integer NOT NULL,
-    titre character varying[] NOT NULL,
-    resume character varying
-)'.
+	self generateModelFrom: self mseString.
 	test := DCBLowNumberOfColumns new.
 	"Backup current threshold."
 	originalThreshold := DCBLowNumberOfColumns threshold.
