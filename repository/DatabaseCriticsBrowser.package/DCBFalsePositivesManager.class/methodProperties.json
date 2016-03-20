@@ -4,5 +4,6 @@
 	"instance" : {
 		"falsePositivesDict" : "JulienDelplanque 3/19/2016 19:34",
 		"initialize" : "JulienDelplanque 3/19/2016 19:24",
+		"isEntity:markedAsFalsePositiveFor:" : "JulienDelplanque 3/20/2016 16:47",
 		"mark:asFalsePositiveFor:" : "JulienDelplanque 3/19/2016 19:32",
 		"unmark:asFalsePositiveFor:" : "JulienDelplanque 3/19/2016 21:04" } }

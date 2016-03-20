@@ -3,7 +3,7 @@
 	"classinstvars" : [
 		 ],
 	"classvars" : [
-		 ],
+		"FalsePositivesManager" ],
 	"commentStamp" : "JulienDelplanque 3/17/2016 10:04",
 	"instvars" : [
 		"entitiesViolatingTheRule" ],
