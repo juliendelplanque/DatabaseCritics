@@ -1,3 +1,0 @@
-post load
-setDCBStandalone
-	DCBBrowser beStandalone
