@@ -1,3 +1,3 @@
 accessing
 leftListInitialItems
-	^ (DCBRule appliableSubclasses collect: #new) asOrderedCollection
+	^ (DCBRule applicableSubclasses collect: #new) asOrderedCollection

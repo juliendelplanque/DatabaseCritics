@@ -1,3 +1,3 @@
 appliable
-appliableSubclasses
+applicableSubclasses
 	^ self allSubclasses select: #isApplicable
