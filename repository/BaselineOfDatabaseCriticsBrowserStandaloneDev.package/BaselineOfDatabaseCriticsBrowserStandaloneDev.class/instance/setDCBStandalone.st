@@ -1,3 +1,3 @@
-post load
+post-install
 setDCBStandalone
 	DCBBrowser beStandalone
