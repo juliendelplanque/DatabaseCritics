@@ -6,5 +6,5 @@ baseline04: spec
 		spec blessing: #'baseline'.
 		spec repository: 'http://smalltalkhub.com/mc/JulienDelplanque/DatabaseCriticsBrowser/main/'.
 		spec baseline: 'DatabaseCriticsBrowser' with: [
-    		spec repository: 'github://juliendelplanque/DatabaseCriticsBrowser/repository' ]
+    		spec repository: 'github://juliendelplanque/DatabaseCriticsBrowser:dev/repository' ]
 	]
