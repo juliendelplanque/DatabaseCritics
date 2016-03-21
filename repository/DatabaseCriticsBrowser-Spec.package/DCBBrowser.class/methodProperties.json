@@ -2,7 +2,7 @@
 	"class" : {
 		"beIntegrated" : "JulienDelplanque 2/23/2016 15:25",
 		"beStandalone" : "JulienDelplanque 2/23/2016 15:25",
-		"defaultSpec" : "JulienDelplanque 2/9/2016 17:08",
+		"defaultSpec" : "JulienDelplanque 3/21/2016 16:41",
 		"help" : "JulienDelplanque 2/4/2016 08:52",
 		"icon" : "JulienDelplanque 2/3/2016 14:53",
 		"initialize" : "JulienDelplanque 2/23/2016 15:26",
@@ -15,7 +15,7 @@
 		"openCenteredOn:" : "JulienDelplanque 2/3/2016 11:47",
 		"openOn:" : "JulienDelplanque 2/25/2016 09:33" },
 	"instance" : {
-		"askAndLoadDump" : "JulienDelplanque 2/23/2016 15:59",
+		"askAndLoadDump" : "JulienDelplanque 3/21/2016 09:01",
 		"classificationShortcut" : "JulienDelplanque 2/25/2016 09:22",
 		"delete" : "JulienDelplanque 2/25/2016 09:35",
 		"dependantWidgets" : "JulienDelplanque 3/3/2016 16:13",
