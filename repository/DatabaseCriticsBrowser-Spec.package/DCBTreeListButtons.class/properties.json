@@ -10,8 +10,9 @@
 		"listLabel",
 		"tree",
 		"list",
-		"button" ],
-	"name" : "DCBTreeListButton",
+		"leftButton",
+		"rightButton" ],
+	"name" : "DCBTreeListButtons",
 	"pools" : [
 		 ],
 	"super" : "ComposableModel",

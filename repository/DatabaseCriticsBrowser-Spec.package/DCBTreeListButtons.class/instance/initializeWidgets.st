@@ -4,9 +4,11 @@ initializeWidgets
 	list := self newList.
 	treeLabel := self newLabel.
 	tree := self newTree.
-	button := self newButton.
+	leftButton := self newButton.
+	rightButton := self newButton.
 	
 	self focusOrder
 		add: tree;
 		add: list;
-		add: button.
+		add: leftButton;
+		add: rightButton.

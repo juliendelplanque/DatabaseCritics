@@ -1,5 +1,5 @@
 initialization
 initializeWidgets
-	treeListButton := DCBTreeListButton new.
+	treeListButton := DCBTreeListButtons new.
 	informationLabel := InformationLabelModel new.
 	self initializeMenu

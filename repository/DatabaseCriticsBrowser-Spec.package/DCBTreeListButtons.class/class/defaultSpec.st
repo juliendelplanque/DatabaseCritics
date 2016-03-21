@@ -11,5 +11,8 @@ defaultSpec
 						rightCol
 							add: #listLabel height: self toolbarHeight;
 							add: #list;
-							add: #button height: self toolbarHeight ] ];
+							newRow: [ :buttonsRow |
+								buttonsRow
+									add: #leftButton;
+									add: #rightButton ] height: self toolbarHeight ] ];
 		yourself

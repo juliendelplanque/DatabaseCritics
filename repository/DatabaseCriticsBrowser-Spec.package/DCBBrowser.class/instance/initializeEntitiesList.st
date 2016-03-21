@@ -1,0 +1,7 @@
+initialization
+initializeEntitiesList
+	treeListButton
+		whenListSelectedItemChanged: [ :item |
+			treeListButton
+				leftButtonEnabled: item isNotNil;
+				rightButtonEnabled: item isNotNil ]
