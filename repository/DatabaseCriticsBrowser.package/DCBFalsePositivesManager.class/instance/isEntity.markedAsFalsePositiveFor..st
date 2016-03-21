@@ -1,4 +1,4 @@
-marking
+testing
 isEntity: aFamixSQLEntity markedAsFalsePositiveFor: aRule
 	"First we verify if there is already the key and its associated list in the dictionary."
 	(falsePositivesDict includesKey: aRule class)
