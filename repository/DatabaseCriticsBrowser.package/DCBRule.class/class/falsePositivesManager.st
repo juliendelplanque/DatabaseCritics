@@ -1,3 +1,3 @@
-as yet unclassified
+false positives
 falsePositivesManager
-	^ FalsePositivesManager ifNil: [ FalsePositivesManager := DCBFalsePositivesManager new ]
+	^ FalsePositivesManager ifNil: [ self resetFalsePositivesManager ]

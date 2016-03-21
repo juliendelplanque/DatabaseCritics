@@ -1,9 +1,10 @@
 {
 	"class" : {
 		"applicableSubclasses" : "JulienDelplanque 3/20/2016 16:28",
-		"falsePositivesManager" : "JulienDelplanque 3/20/2016 16:40",
+		"falsePositivesManager" : "JulienDelplanque 3/21/2016 08:40",
 		"falsePositivesManager:" : "JulienDelplanque 3/20/2016 16:39",
-		"isApplicable" : "JulienDelplanque 3/2/2016 21:56" },
+		"isApplicable" : "JulienDelplanque 3/2/2016 21:56",
+		"resetFalsePositivesManager" : "JulienDelplanque 3/21/2016 08:40" },
 	"instance" : {
 		"acceptEntity:" : "JulienDelplanque 1/28/2016 14:38",
 		"acceptEntityClass:" : "JulienDelplanque 1/28/2016 14:38",
