@@ -1,3 +1,4 @@
 accessing
 entitiesViolatingTheRuleWithoutFalsePositives
-	^ self entitiesViolatingTheRule select: [ :entity | self class falsePositivesManager isEntity: entity markedAsFalsePositiveFor: self ]
+	^ self entitiesViolatingTheRule reject: [ :entity | 
+			self class falsePositivesManager isEntity: entity markedAsFalsePositiveFor: self ]
