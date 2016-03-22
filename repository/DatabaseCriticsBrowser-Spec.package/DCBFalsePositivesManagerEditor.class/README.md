@@ -1,0 +1,1 @@
+I am a widget to edit the false positives manager (ie remove entity marked as false positive).
