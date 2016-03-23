@@ -1,3 +1,3 @@
 entity-acceptance
 acceptedClasses
-	^ { FAMIXTable }
+	^ { FAMIXTable . FAMIXView }

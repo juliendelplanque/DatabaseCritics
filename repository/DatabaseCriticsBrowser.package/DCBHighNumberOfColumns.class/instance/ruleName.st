@@ -1,3 +1,3 @@
 accessing
 ruleName
-	^ 'High number of columns in a table.'
+	^ 'High number of columns in a table/view.'
