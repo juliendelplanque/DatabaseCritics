@@ -1,3 +1,0 @@
-*DatabaseCriticsBrowser-Spec
-isGroup
-	^ true
