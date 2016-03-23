@@ -12,4 +12,6 @@ thresholdChanged: aDCBThresholdChanged
 						add: aDCBThresholdChanged ruleClass new ] ].
 	self refreshLists.
 	self announceNewRulesSelected.
-	self enableDisableButtons
+	self enableDisableButtons.
+	initialLeftItems := self listsChooser leftList listItems.
+	initialRightItems := self listsChooser rightList listItems.
