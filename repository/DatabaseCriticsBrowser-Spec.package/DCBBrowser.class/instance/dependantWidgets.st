@@ -1,3 +1,3 @@
 accessing
 dependantWidgets
-	^ { classificationChooser . exportersChooser . rulesChooser . thresholdsEditor . helpCenter . shortcutsHelp }
+	^ { classificationChooser . exportersChooser . rulesChooser . thresholdsEditor . falsePositivesManagerEditor . helpCenter . shortcutsHelp }

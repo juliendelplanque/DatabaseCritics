@@ -1,5 +1,5 @@
 initialization
 initialize
 	super initialize.
-	self title: 'False positives manager editor'.
+	self title: 'False positives editor'.
 	falsePositiveToUnmark := Set new

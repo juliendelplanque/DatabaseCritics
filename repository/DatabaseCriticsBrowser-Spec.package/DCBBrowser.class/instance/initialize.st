@@ -16,6 +16,9 @@ initialize
 		when: DCBExportationSuccessful send: #exportationSucceed: to: self.
 	thresholdsEditor := DCBThresholdsEditor new.
 	rulesChooser listenToThresholdsEditor: thresholdsEditor.
+	falsePositivesManagerEditor := DCBFalsePositivesManagerEditor new.
+	falsePositivesManagerEditor announcer weak
+		when: DCBFalsePositivesUpdated send: #falsePositivesUpdated: to: self.
 	helpCenter := HelpCenterWidget opener: self helpPragma: #dcbHelp: iconPragma: #dcbIcon: openPragma: #dcbOpen:.
 	shortcutsHelp := DCBShortcutsDocViewer new.
 	shortcutsHelp widgets: ({ self } , self dependantWidgets).

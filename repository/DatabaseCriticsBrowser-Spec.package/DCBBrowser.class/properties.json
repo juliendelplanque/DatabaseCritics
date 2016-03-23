@@ -16,7 +16,8 @@
 		"treeListButton",
 		"helpCenter",
 		"shortcutsHelp",
-		"thresholdsEditor" ],
+		"thresholdsEditor",
+		"falsePositivesManagerEditor" ],
 	"name" : "DCBBrowser",
 	"pools" : [
 		 ],

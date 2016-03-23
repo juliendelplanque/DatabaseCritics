@@ -5,6 +5,10 @@ defaultSpec
 			column
 				newRow: [ :row |
 					row
+						add: #rulesLabel;
+						add: #entitiesLabel ] height: self buttonHeight;
+				newRow: [ :row |
+					row
 						add: #rulesList;
 						newColumn: [ :subColumn |
 							subColumn
