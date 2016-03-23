@@ -7,8 +7,7 @@
 	"commentStamp" : "JulienDelplanque 1/28/2016 14:26",
 	"instvars" : [
 		"rules",
-		"subgroupClassification",
-		"sortBlock" ],
+		"subgroupClassification" ],
 	"name" : "DCBRuleClassification",
 	"pools" : [
 		 ],

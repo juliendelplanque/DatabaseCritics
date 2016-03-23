@@ -1,17 +1,22 @@
 {
 	"class" : {
-		"appliableSubclasses" : "JulienDelplanque 3/2/2016 21:56",
-		"isApplicable" : "JulienDelplanque 3/2/2016 21:56" },
+		"applicableSubclasses" : "JulienDelplanque 3/20/2016 16:28",
+		"falsePositivesManager" : "JulienDelplanque 3/21/2016 08:40",
+		"falsePositivesManager:" : "JulienDelplanque 3/20/2016 16:39",
+		"isApplicable" : "JulienDelplanque 3/2/2016 21:56",
+		"resetFalsePositivesManager" : "JulienDelplanque 3/21/2016 08:40" },
 	"instance" : {
 		"acceptEntity:" : "JulienDelplanque 1/28/2016 14:38",
-		"acceptEntityClass:" : "JulienDelplanque 1/28/2016 14:38",
-		"acceptedClass" : "JulienDelplanque 1/28/2016 14:39",
+		"acceptEntityClass:" : "JulienDelplanque 3/23/2016 15:22",
+		"acceptedClasses" : "JulienDelplanque 3/23/2016 15:21",
 		"addViolatingEntity:" : "JulienDelplanque 1/28/2016 14:39",
 		"check:" : "JulienDelplanque 1/28/2016 14:41",
 		"clearEntitiesViolatingTheRule" : "JulienDelplanque 3/3/2016 13:28",
 		"description" : "JulienDelplanque 3/9/2016 14:46",
 		"entitiesViolatingTheRule" : "JulienDelplanque 1/28/2016 14:41",
+		"entitiesViolatingTheRuleWithoutFalsePositives" : "JulienDelplanque 3/21/2016 08:12",
 		"initialize" : "JulienDelplanque 3/3/2016 13:37",
+		"isRule" : "JulienDelplanque 3/23/2016 10:55",
 		"ruleName" : "JulienDelplanque 3/9/2016 14:46",
 		"runOn:" : "JulienDelplanque 1/28/2016 14:43",
 		"severity" : "OlivierAuverlot 2/23/2016 14:16" } }

@@ -1,4 +1,4 @@
 test-appliable
 testAppliableSubclasses
-	DCBRuleWithThreshold appliableSubclasses do: [ :class |
+	DCBRuleWithThreshold applicableSubclasses do: [ :class |
 		self assert: class threshold isNotNil ]

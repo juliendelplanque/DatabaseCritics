@@ -1,0 +1,1 @@
+I am the error raised when a no false positive exists for a rule.

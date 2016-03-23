@@ -4,4 +4,4 @@ whenSelectedInBrowser: aDCBBrowser
 	aDCBBrowser informationLabel clearCurrentMessage.
 	aDCBBrowser treeListButton
 		listUnselectItem;
-		listItems: self entitiesViolatingARule
+		listItems: self entitiesViolatingARuleWithoutFalsePositives

@@ -4,4 +4,4 @@ testGroupedRules
 	classification := DCBEntityTypeClassification rules: rules.
 	classification groupedRules keysAndValuesDo: [ :class :group |
 		group do: [:rule |
-			self assert: rule acceptedClass equals: class ] ]
+			self assert: (rule acceptEntityClass: class) ] ]

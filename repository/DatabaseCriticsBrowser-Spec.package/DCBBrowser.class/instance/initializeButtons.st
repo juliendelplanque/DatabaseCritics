@@ -1,5 +1,9 @@
 initialization
 initializeButtons
 	treeListButton
-		buttonLabel: 'Inspect';
-		buttonAction: [ self inspectSelectedEntity ]
+		rightButtonLabel: 'Inspect';
+		rightButtonAction: [ self inspectSelectedEntity ];
+		rightButtonEnabled: false;
+		leftButtonLabel: 'Mark as false positive';
+		leftButtonAction: [ self markSelectedEntityAsFalsePositive ];
+		leftButtonEnabled: false

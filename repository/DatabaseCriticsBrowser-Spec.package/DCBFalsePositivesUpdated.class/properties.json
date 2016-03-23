@@ -1,0 +1,14 @@
+{
+	"category" : "DatabaseCriticsBrowser-Spec-Announcements",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 3/22/2016 15:52",
+	"instvars" : [
+		"falsePositivesUnmarked" ],
+	"name" : "DCBFalsePositivesUpdated",
+	"pools" : [
+		 ],
+	"super" : "Announcement",
+	"type" : "normal" }

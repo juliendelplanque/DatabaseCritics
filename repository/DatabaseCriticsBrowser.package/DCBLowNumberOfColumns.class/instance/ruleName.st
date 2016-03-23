@@ -1,3 +1,3 @@
 accessing
 ruleName
-	^ 'Low number of columns in a table.'
+	^ 'Low number of columns in a table/view.'

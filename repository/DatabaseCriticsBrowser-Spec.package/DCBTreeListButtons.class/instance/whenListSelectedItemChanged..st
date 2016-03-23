@@ -1,0 +1,3 @@
+list-management
+whenListSelectedItemChanged: aBlock
+	list whenSelectedItemChanged: aBlock

@@ -1,3 +1,3 @@
 running
 setUp
-	rules := DCBRule appliableSubclasses collect: #new.
+	rules := DCBRule applicableSubclasses collect: #new.

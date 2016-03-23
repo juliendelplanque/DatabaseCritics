@@ -1,4 +1,4 @@
 running
 setUp
-	widget := DCBTreeListButton new.
+	widget := DCBTreeListButtons new.
 	window := widget openWithSpec

@@ -3,4 +3,5 @@ initializePresenter
 	self
 		initializeLabels;
 		initializeRulesTree;
-		initializeButtons
+		initializeButtons;
+		initializeEntitiesList

@@ -1,0 +1,3 @@
+false positives
+falsePositivesManager: aDCBFalsePositivesManager
+	FalsePositivesManager := aDCBFalsePositivesManager

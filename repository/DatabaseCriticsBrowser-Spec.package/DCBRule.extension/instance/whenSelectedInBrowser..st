@@ -4,4 +4,4 @@ whenSelectedInBrowser: aDCBBrowser
 	aDCBBrowser informationLabel clearAndDisplay: self description.
 	aDCBBrowser treeListButton
 		listUnselectItem;
-		listItems: self entitiesViolatingTheRule
+		listItems: self entitiesViolatingTheRuleWithoutFalsePositives

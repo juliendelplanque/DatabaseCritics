@@ -1,3 +1,3 @@
 *DatabaseCriticsBrowser-Spec
 label
-	^ self groupName , ' (' , self entitiesViolatingARule size asString , ')'
+	^ self groupName , ' (' , self entitiesViolatingARuleWithoutFalsePositives size asString , ')'
