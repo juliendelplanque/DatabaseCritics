@@ -1,3 +1,3 @@
 grouping
 groupedRules
-	^ self rules groupedBy: #acceptedClass
+	^ self rules groupedBy: #acceptedClasses
