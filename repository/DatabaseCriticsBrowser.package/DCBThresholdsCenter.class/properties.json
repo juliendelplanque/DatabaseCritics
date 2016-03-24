@@ -3,7 +3,7 @@
 	"classinstvars" : [
 		 ],
 	"classvars" : [
-		"SoleInstance" ],
+		"Current" ],
 	"commentStamp" : "JulienDelplanque 3/2/2016 20:20",
 	"instvars" : [
 		"classToThresholdDict" ],

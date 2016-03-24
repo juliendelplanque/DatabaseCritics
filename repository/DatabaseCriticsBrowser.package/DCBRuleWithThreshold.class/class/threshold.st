@@ -1,3 +1,3 @@
 accessing
 threshold
-	^ [ DCBThresholdsCenter soleInstance thresholdFor: self ] on: DCBNoThreshold do: [ ^ nil ]
+	^ [ DCBThresholdsCenter current thresholdFor: self ] on: DCBNoThreshold do: [ ^ nil ]

@@ -1,3 +1,3 @@
 resetting
 reset
-	^ SoleInstance := self new
+	^ Current := self new

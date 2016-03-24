@@ -1,7 +1,8 @@
 {
 	"class" : {
-		"reset" : "JulienDelplanque 3/2/2016 20:24",
-		"soleInstance" : "JulienDelplanque 3/2/2016 20:24" },
+		"current" : "JulienDelplanque 3/24/2016 13:24",
+		"current:" : "JulienDelplanque 3/24/2016 13:24",
+		"reset" : "JulienDelplanque 3/24/2016 13:24" },
 	"instance" : {
 		"initialize" : "JulienDelplanque 3/2/2016 20:21",
 		"resetThresholdOf:" : "JulienDelplanque 3/2/2016 20:33",

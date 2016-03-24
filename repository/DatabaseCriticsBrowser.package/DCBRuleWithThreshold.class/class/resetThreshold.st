@@ -1,3 +1,3 @@
 reseting
 resetThreshold
-	DCBThresholdsCenter soleInstance resetThresholdOf: self
+	DCBThresholdsCenter current resetThresholdOf: self
