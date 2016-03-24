@@ -9,8 +9,8 @@
 		"rulesApplied",
 		"falsePositivesManager",
 		"ruleTree",
-		"thresholds",
-		"mooseModel" ],
+		"mooseModel",
+		"thresholdsCenter" ],
 	"name" : "DCBCritic",
 	"pools" : [
 		 ],
