@@ -1,0 +1,18 @@
+{
+	"category" : "DatabaseCriticsBrowser-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 3/24/2016 11:31",
+	"instvars" : [
+		"rulesApplied",
+		"falsePositivesManager",
+		"ruleTree",
+		"thresholds",
+		"mooseModel" ],
+	"name" : "DCBCritic",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
