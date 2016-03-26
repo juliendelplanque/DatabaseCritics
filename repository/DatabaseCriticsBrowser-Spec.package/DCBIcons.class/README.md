@@ -7,3 +7,5 @@ Icons credits:
 	#keyboardIcon: Icon made by http://www.freepik.com Freepik from http://www.flaticon.com  licensed by Creative Commons BY 3.0.
 	#thresholdIcon: Icons made by http://www.freepik.com Freepik from http://www.flaticon.com licensed by Creative Commons BY 3.0.
 	#falsepositiveIcon: Icons made by http://www.flaticon.com/authors/google Google from  http://www.flaticon.com licensed by Creative Commons BY 3.0.
+	#savecriticIcon: Icons made by http://www.flaticon.com/authors/hanan Hanan from http://www.flaticon.com licensed by Creative Commons BY 3.0.
+	#loadcriticIcon: Icons made by http://www.flaticon.com/authors/hanan Hanan from http://www.flaticon.com licensed by Creative Commons BY 3.0.

@@ -2,7 +2,7 @@ classifier-building
 buildClassifier
 	"Builds a classifier according to user choices and returns it."
 	| classification |
-	self listsChooser rightListItems isEmpty
+	self initialRightItems isEmpty
 		ifFalse: [ 
 			classification := self listsChooser rightListItems last new.
 			self listsChooser rightListItems reversed allButFirst do: [ :class |

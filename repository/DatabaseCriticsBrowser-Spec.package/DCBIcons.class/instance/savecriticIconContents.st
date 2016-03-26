@@ -1,0 +1,10 @@
+private - contents
+savecriticIconContents
+	"Private - Method generated with the content of the file File @ /home/julien/Documents/Umons/Ma 1/Projet/Images/png/dcb/savecritic.png"
+	^ 'iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAAAlw
+SFlzAAAAbgAAAG4BI+U+pwAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoA
+AADDSURBVDiN3ZMxDgFREIa/QZQKPZ3CXkCjcwhBpZZwEdE5AS6xp3AAEoUDbEchRrEvss++
+sS9Kk0zyJvn/r3j/DKpKqIEV8ADuwMzSNbCrD9Rd9yxR7Qsgqv4AIO7H80FkDMzdmAAd9z4D
+J/feqGr6Nn1E1wUyQI2+Am3PE8h/YpifwKikN5ZoHwCsg1oD0AIuBfMRaEYDHGRIvso3ILF0
+XgqliEQWQKaqh6gYfynvmERkCiwrPFtV3QUB5Fc3qACkxeEFfkLlYzlzs5cAAAAASUVORK5C
+YII='
