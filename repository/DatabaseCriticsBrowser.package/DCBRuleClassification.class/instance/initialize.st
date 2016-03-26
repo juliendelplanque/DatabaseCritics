@@ -1,4 +1,5 @@
 initialization
 initialize
 	super initialize.
-	sortingBlock := [ :a :b | true ] "Do not sort by default."
+	self sortingBlock: [ :a :b | true ]. "Do not sort by default."
+	self isReverseSort: false "We use normal sorting by default."

@@ -4,11 +4,12 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "JulienDelplanque 1/28/2016 14:26",
+	"commentStamp" : "JulienDelplanque 3/26/2016 19:22",
 	"instvars" : [
 		"rules",
 		"subgroupClassification",
-		"sortingBlock" ],
+		"sortingBlock",
+		"isReverseSort" ],
 	"name" : "DCBRuleClassification",
 	"pools" : [
 		 ],
