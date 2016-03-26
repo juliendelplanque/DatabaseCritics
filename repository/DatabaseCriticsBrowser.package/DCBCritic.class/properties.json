@@ -8,7 +8,7 @@
 	"instvars" : [
 		"rulesApplied",
 		"falsePositivesManager",
-		"ruleTree",
+		"classifier",
 		"mooseModel",
 		"thresholdsCenter" ],
 	"name" : "DCBCritic",
