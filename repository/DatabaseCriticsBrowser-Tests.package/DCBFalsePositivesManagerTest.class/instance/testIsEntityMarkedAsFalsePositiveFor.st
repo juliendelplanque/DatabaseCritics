@@ -1,7 +1,7 @@
 tests-marking
 testIsEntityMarkedAsFalsePositiveFor
 	| rule entity |
-	rule := DCBDUnusedPrimaryKey new.
+	rule := DCBUnusedPrimaryKey new.
 	entity := FAMIXTable new
 					name: 'people';
 					yourself.

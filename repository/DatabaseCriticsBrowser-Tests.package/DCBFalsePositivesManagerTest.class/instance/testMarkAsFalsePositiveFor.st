@@ -2,7 +2,7 @@ tests-marking
 testMarkAsFalsePositiveFor
 	| rule entity falsePositive |
 	self assert: falsePositivesManager falsePositivesDict isEmpty.
-	rule := DCBDUnusedPrimaryKey new.
+	rule := DCBUnusedPrimaryKey new.
 	entity := FAMIXTable new
 					name: 'people';
 					yourself.

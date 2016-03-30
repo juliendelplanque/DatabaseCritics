@@ -3,7 +3,7 @@ testUnmarkAsFalsePositiveFor
 	| rule entity |
 	self should: [ falsePositivesManager unmark: FAMIXTable new asFalsePositiveFor: DCBMissingPrimaryKey new ] raise: DCBNoFalsePositiveForRule.
 	
-	rule := DCBDUnusedPrimaryKey new.
+	rule := DCBUnusedPrimaryKey new.
 	entity := FAMIXTable new
 					name: 'people';
 					yourself.
