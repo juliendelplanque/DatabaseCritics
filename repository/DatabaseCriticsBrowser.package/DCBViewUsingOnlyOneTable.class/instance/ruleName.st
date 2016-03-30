@@ -1,3 +1,3 @@
 accessing
 ruleName
-	^ 'Views using only one table.'
+	^ 'View using only one table.'
