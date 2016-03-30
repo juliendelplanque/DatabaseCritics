@@ -4,8 +4,8 @@ buildClassifier
 	| classification |
 	self initialRightItems isEmpty
 		ifFalse: [ 
-			classification := self listsChooser rightListItems last new.
+			classification := self listsChooser rightListItems last.
 			self listsChooser rightListItems reversed allButFirst do: [ :class |
-				classification := class new subgroupClassification: classification ] ]
+				classification := class subgroupClassification: classification ] ]
 		ifTrue: [ classification := DCBNoClassification new ].
 	^ classification

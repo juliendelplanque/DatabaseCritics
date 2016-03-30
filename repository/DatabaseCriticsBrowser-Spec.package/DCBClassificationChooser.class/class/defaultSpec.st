@@ -15,6 +15,7 @@ defaultSpec
 							subColumn1 
 								newRow: #listsChooserRightLabel height: self toolbarHeight;
 								newRow: #listsChooserRightList;
+								newRow: #isReversedCheckbox height: self buttonHeight;
 								newRow: #updown height: self buttonHeight * 2 ] ];
 				newRow: #cancelApplyWidget height: self buttonHeight ];
 		yourself
