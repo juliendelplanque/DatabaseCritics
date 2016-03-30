@@ -2,6 +2,6 @@ tests-grouping
 testGroups
 	| classification |
 	classification := DCBEntityTypeClassification rules: rules.
-	classification groups with: classification groupedRules keys do: [ :group :key |
+	classification groups with:( classification groupedRules keys sorted: classification sortingBlock )do: [ :group :key |
 		self assert: group class equals: DCBGroup.
 		self assert: group groupName equals: key asString ]
