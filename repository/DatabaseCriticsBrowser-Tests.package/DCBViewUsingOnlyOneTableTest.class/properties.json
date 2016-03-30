@@ -1,0 +1,14 @@
+{
+	"category" : "DatabaseCriticsBrowser-Tests-Rules",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "DCBViewUsingOnlyOneTableTest",
+	"pools" : [
+		 ],
+	"super" : "DCBRuleTest",
+	"type" : "normal" }
