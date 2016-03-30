@@ -1,3 +1,4 @@
 entity-checking
 check: aFAMIXTable
-	^ aFAMIXTable pkColumns noneSatisfy: [ :pk | (pk queryIncoming: FAMIXColumnToColumnAssociation) notEmpty ]
+	^ aFAMIXTable pkColumns anySatisfy: [ :pk |
+		(pk queryIncoming: FAMIXColumnToColumnAssociation) isEmpty ]
