@@ -18,11 +18,11 @@ loadCritic
 	classifier := critic classifier.
 	classifier rules: critic rulesApplied.
 	rulesChooser
-		initialLeftItems: (((rulesChooser leftListInitialItems collect: #class) \ (critic rulesApplied collect: #class))
+		leftItems: (((rulesChooser leftListInitialItems collect: #class) \ (critic rulesApplied collect: #class))
 									collect: #new);
-		initialRightItems: critic rulesApplied.
+		rightItems: critic rulesApplied.
 	classificationChooser
-		initialLeftItems:(classificationChooser leftListInitialItems reject: [ :c | (classifier classificationsList collect: #class) includes: c class ]);
-		initialRightItems: classifier classificationsList.
+		leftItems:(classificationChooser leftListInitialItems reject: [ :c | (classifier classificationsList collect: #class) includes: c class ]);
+		rightItems: classifier classificationsList.
 	DCBThresholdsCenter current: critic thresholdsCenter.
 	self updateSubwidgets.

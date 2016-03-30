@@ -1,6 +1,6 @@
 initialization
 initialize
 	super initialize.
-	self setInitialItems.
+	self setLeftRightListsItems.
 	self initializeFocus.
 	self extent: 500@350.

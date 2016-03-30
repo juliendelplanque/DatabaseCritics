@@ -1,5 +1,5 @@
 announcing
 announceNewRulesSelected
-	self initialRightItems do: #clearEntitiesViolatingTheRule.
+	self rightItems do: #clearEntitiesViolatingTheRule.
 	self
-		announce: (DCBNewRulesChosen rules: self initialRightItems)
+		announce: (DCBNewRulesChosen rules: self rightItems)

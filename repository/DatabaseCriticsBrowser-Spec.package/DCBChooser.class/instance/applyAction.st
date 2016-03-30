@@ -1,3 +1,3 @@
 buttons-actions
 applyAction
-	self setInitialItems
+	self setLeftRightListsItems

@@ -3,17 +3,16 @@
 		"help" : "JulienDelplanque 2/7/2016 11:38",
 		"icon" : "JulienDelplanque 2/3/2016 14:16" },
 	"instance" : {
-		"announceNewRulesSelected" : "JulienDelplanque 3/25/2016 19:51",
-		"anyListElementClassIs:" : "JulienDelplanque 3/10/2016 18:52",
+		"announceNewRulesSelected" : "JulienDelplanque 3/30/2016 14:47",
+		"anyListElementClassIs:" : "JulienDelplanque 3/30/2016 14:59",
 		"applyAction" : "JulienDelplanque 3/3/2016 19:21",
 		"initializeArrows" : "JulienDelplanque 2/25/2016 09:53",
 		"initializePresenter" : "JulienDelplanque 2/8/2016 08:36",
 		"leftListInitialItems" : "JulienDelplanque 3/20/2016 16:28",
 		"leftListLabel" : "JulienDelplanque 1/31/2016 15:09",
 		"listenToThresholdsEditor:" : "JulienDelplanque 3/3/2016 14:41",
-		"refreshList:" : "JulienDelplanque 3/10/2016 18:54",
-		"refreshLists" : "JulienDelplanque 3/3/2016 19:20",
+		"refreshList:withItems:" : "JulienDelplanque 3/30/2016 15:06",
+		"refreshLists" : "JulienDelplanque 3/30/2016 15:06",
 		"rightListLabel" : "JulienDelplanque 1/31/2016 15:09",
-		"thresholdChanged:" : "JulienDelplanque 3/26/2016 11:23",
-		"title" : "JulienDelplanque 1/31/2016 15:11",
-		"updateList:withAnnouncement:" : "JulienDelplanque 3/23/2016 22:17" } }
+		"thresholdChanged:" : "JulienDelplanque 3/30/2016 14:59",
+		"title" : "JulienDelplanque 1/31/2016 15:11" } }

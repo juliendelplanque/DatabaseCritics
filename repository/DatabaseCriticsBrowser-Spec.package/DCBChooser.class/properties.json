@@ -4,14 +4,14 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "JulienDelplanque 1/31/2016 15:41",
+	"commentStamp" : "JulienDelplanque 3/30/2016 14:46",
 	"instvars" : [
 		"cancelApplyWidget",
 		"listsChooser",
-		"initialLeftItems",
-		"initialRightItems",
 		"needAtLeastOneElementInRightList",
-		"addRemoveWidget" ],
+		"addRemoveWidget",
+		"leftItems",
+		"rightItems" ],
 	"name" : "DCBChooser",
 	"pools" : [
 		 ],
