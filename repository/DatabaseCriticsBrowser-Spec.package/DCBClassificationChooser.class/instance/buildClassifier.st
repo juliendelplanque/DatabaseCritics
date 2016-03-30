@@ -4,8 +4,9 @@ buildClassifier
 	| classification |
 	self rightItems isEmpty
 		ifFalse: [ 
-			classification := self listsChooser rightListItems last.
-			self listsChooser rightListItems reversed allButFirst do: [ :class |
+			self rightItems do: [ :c | c subgroupClassification: nil ]. "Clean subgroup classification chosen before."
+			classification := self rightItems last.
+			self rightItems reversed allButFirst do: [ :class |
 				classification := class subgroupClassification: classification ] ]
 		ifTrue: [ classification := DCBNoClassification new ].
 	^ classification
