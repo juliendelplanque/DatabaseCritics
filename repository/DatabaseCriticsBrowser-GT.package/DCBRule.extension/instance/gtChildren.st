@@ -1,0 +1,3 @@
+*DatabaseCriticsBrowser-GT
+gtChildren
+	^ #()
