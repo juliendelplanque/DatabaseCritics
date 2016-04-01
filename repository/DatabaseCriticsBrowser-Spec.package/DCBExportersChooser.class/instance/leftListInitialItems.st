@@ -1,3 +1,3 @@
 accessing
 leftListInitialItems
-	^ DCBExporter subclasses asOrderedCollection
+	^ DCBFileExporter subclasses asOrderedCollection

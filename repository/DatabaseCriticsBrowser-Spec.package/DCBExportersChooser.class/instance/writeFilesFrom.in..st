@@ -1,9 +1,7 @@
 exporters-writing
 writeFilesFrom: exporters in: aDirectory
 	exporters do: [ :exporter |
-		| stream |
-		stream := FileStream newFileNamed: (aDirectory / (self createFileNameFor: exporter)).
-		stream
-			<< exporter output;
-			close.
-		self announce: (DCBExportationSuccessful filePath: stream fullName) ]
+		| path |
+		path := aDirectory / (self createFileNameFor: exporter).
+		exporter writeIn: path.
+		self announce: (DCBExportationSuccessful filePath: path fullName) ]
