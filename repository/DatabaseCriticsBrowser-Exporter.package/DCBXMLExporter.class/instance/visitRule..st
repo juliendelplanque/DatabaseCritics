@@ -10,7 +10,7 @@ visitRule: aDCBRule
 		entityNode
 			attributeAt: 'name' put: entity name.
 		ruleNode addNode: entityNode ].
-	currentNode
-		addNode: ruleNode.
+
+	^ ruleNode
 		
 						

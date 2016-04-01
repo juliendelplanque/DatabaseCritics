@@ -1,3 +1,3 @@
 *DatabaseCriticsBrowser-Exporter
 accept: anExporter
-	anExporter visitRoot: self
+	^ anExporter visitRoot: self

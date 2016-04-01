@@ -4,11 +4,10 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "JulienDelplanque 2/3/2016 09:09",
+	"commentStamp" : "JulienDelplanque 4/1/2016 14:58",
 	"instvars" : [
-		"shiftCount",
-		"outputStream" ],
-	"name" : "DCBTextExporter",
+		 ],
+	"name" : "DCBFileExporter",
 	"pools" : [
 		 ],
 	"super" : "DCBExporter",

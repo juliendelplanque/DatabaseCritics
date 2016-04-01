@@ -1,3 +1,3 @@
 visiting
 visitRoot: aDCBRoot
-	aDCBRoot children do: [ :subgroup | subgroup accept: self ]
+	^ aDCBRoot children collect: [ :subgroup | subgroup accept: self ]

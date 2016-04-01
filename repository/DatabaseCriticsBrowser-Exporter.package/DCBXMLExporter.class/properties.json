@@ -6,10 +6,9 @@
 		 ],
 	"commentStamp" : "JulienDelplanque 2/3/2016 10:45",
 	"instvars" : [
-		"document",
-		"currentNode" ],
+		"document" ],
 	"name" : "DCBXMLExporter",
 	"pools" : [
 		 ],
-	"super" : "DCBExporter",
+	"super" : "DCBFileExporter",
 	"type" : "normal" }
