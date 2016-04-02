@@ -5,8 +5,8 @@ initializeImportExportIn: group
 			group addItem: [ :item | 
 				item
 					name: nil;
-					description: 'Load a PostgreSQL dump';
-					icon: DCBIcons current sqlfileIcon;
+					description: 'Load a MSE file.';
+					icon: MooseIcons mooseImportMse;
 					action: [ self askAndLoadDump ] ] ].
 	group addItem: [ :item | 
 		item

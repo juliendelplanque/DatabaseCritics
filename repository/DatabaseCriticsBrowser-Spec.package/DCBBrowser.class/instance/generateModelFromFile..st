@@ -1,3 +1,5 @@
 dump-loading
 generateModelFromFile: aFile
-	^ (PgDumpLoader fromString: aFile contents) model
+	^ MooseModel new
+			entities: (MooseModel importFrom: (ReadStream on: aFile contents)) elements;
+			yourself.
