@@ -5,33 +5,31 @@ baseline: spec
 		for: #common
 		do: [ 
 			spec
-				package: 'DatabaseCriticsBrowser';
+				package: 'DatabaseCriticsBrowser' with: [
+					spec
+						requires: #('Famix-SQL') ];
 				package: 'DatabaseCriticsBrowser-Spec' with: [
 					spec
-						requires: 'HelpCenter';
-						requires: 'SpecModelsAddOns';
-						requires: 'PgDumpLoader';
-						requires: 'ShortcutsCenter' ];
+						requires: #('HelpCenter' 'SpecModelsAddOns' 'PgDumpLoader' 'ShortcutsCenter') ];
 				package: 'DatabaseCriticsBrowser-Standalone' with: [ 
 					spec
-						requires: 'DatabaseCriticsBrowser-Spec' ];
+						requires: #('DatabaseCriticsBrowser-Spec') ];
 				package: 'DatabaseCriticsBrowser-Exporter' with: [ 
 					spec
-						requires: 'DatabaseCriticsBrowser';
-						requires: 'XMLWriter' ];
+						requires: #('DatabaseCriticsBrowser' 'XMLWriter') ];
 				package: 'DatabaseCriticsBrowser-Tests' with: [
 					spec
-						requires: 'DatabaseCriticsBrowser' ];
+						requires: #('DatabaseCriticsBrowser') ];
 				package: 'DatabaseCriticsBrowser-SpecTests' with: [
 					spec
-						requires: 'DatabaseCriticsBrowser-Spec' ];
+						requires: #('DatabaseCriticsBrowser-Spec') ];
 				yourself.
 			spec
-				project: 'PetitSQLIsland' with: [ 
+				project: 'Famix-SQL' with: [ 
 					spec
-						className: 'ConfigurationOfPetitSQLIsland';
+						className: 'ConfigurationOfFamixSQL';
 						version: #development;
-						repository: 'http://smalltalkhub.com/mc/olivierauverlot/PetitSQLIsland/main' ];
+						repository: 'http://smalltalkhub.com/mc/Moose/MooseSQL/main/' ];
 				baseline: 'HelpCenter' with: [
 					spec repository: 'github://juliendelplanque/HelpCenter/repository'  ];
 				project: 'SpecModelsAddOns' with: [ 
