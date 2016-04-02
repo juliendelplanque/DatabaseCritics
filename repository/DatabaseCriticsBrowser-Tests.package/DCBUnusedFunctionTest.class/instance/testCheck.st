@@ -1,9 +1,9 @@
 tests-entity-checking
 testCheck
-	| test functionHello functionFoo |
+	| test functionUsed functionUnused |
 	self generateModelFrom: self mseString.
 	test := DCBUnusedFunction new.
-	functionHello := (model entities detect: [ :e | e isSQLFunction and: [ e name = 'hello' ] ]).
-	functionFoo := (model entities detect: [ :e | e isSQLFunction and: [ e name = 'foo' ] ]).
-	self assert: (test check: functionFoo).
-	self deny: (test check: functionHello)
+	functionUsed := (model entities detect: [ :e | e isSQLFunction and: [ e name = 'used' ] ]).
+	functionUnused := (model entities detect: [ :e | e isSQLFunction and: [ e name = 'unused' ] ]).
+	self assert: (test check: functionUnused).
+	self deny: (test check: functionUsed)
