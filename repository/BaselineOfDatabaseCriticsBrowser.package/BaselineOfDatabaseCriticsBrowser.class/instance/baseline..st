@@ -13,7 +13,7 @@ baseline: spec
 						requires: #('DatabaseCriticsBrowser') ];
 				package: 'DatabaseCriticsBrowser-Spec' with: [
 					spec
-						requires: #('HelpCenter' 'SpecModelsAddOns' 'PgDumpLoader' 'ShortcutsCenter') ];
+						requires: #('HelpCenter' 'SpecModelsAddOns' 'ShortcutsCenter') ];
 				package: 'DatabaseCriticsBrowser-Standalone' with: [ 
 					spec
 						requires: #('DatabaseCriticsBrowser-Spec') ];
@@ -40,11 +40,6 @@ baseline: spec
 						className: 'ConfigurationOfSpecModelsAddOns';
 						version: #development;
 						repository: 'http://smalltalkhub.com/mc/JulienDelplanque/SpecAddOns/main' ];
-				project: 'PgDumpLoader' with: [ 
-					spec
-						className: 'ConfigurationOfPgDumpLoader';
-						version: #development;
-						repository: 'http://smalltalkhub.com/mc/AnneEtien/Myrddin/main' ];
 				baseline: 'ShortcutsCenter' with: [
 						spec repository: 'github://juliendelplanque/ShortcutsCenter/repository' ];
 				project: 'XMLWriter' with: [ 
