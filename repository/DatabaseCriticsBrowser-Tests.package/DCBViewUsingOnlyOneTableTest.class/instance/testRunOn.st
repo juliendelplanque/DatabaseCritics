@@ -1,4 +1,4 @@
-as yet unclassified
+tests-entity-checking
 testRunOn
 	| test entity entities |
 	self generateModelFrom: self mseString.

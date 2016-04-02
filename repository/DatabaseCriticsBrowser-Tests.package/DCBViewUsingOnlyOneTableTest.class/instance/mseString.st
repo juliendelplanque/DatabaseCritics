@@ -1,4 +1,4 @@
-as yet unclassified
+accessing
 mseString
 	^ '(
     (FAMIX.ColumnToColumnAssociation (id: 1)
