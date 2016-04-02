@@ -1,3 +1,4 @@
 entity-checking
 check: aFAMIXView
-	^ aFAMIXView ofTables size < 2
+	^ ((aFAMIXView queryOutgoing: FAMIXColumnToColumnAssociation)
+			collect: [ :assoc | assoc to ownerTable ]) asSet size < 2
