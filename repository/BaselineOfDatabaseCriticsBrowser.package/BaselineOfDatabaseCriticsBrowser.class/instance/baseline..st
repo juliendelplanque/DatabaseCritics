@@ -8,6 +8,9 @@ baseline: spec
 				package: 'DatabaseCriticsBrowser' with: [
 					spec
 						requires: #('Famix-SQL') ];
+				package: 'DatabaseCriticsBrowser-GT' with: [
+					spec
+						requires: #('DatabaseCriticsBrowser') ];
 				package: 'DatabaseCriticsBrowser-Spec' with: [
 					spec
 						requires: #('HelpCenter' 'SpecModelsAddOns' 'PgDumpLoader' 'ShortcutsCenter') ];
@@ -51,9 +54,10 @@ baseline: spec
 						repository: 'http://smalltalkhub.com/mc/PharoExtras/XMLWriter/main' ];
 				yourself.
 			spec
-				group: 'default' with: #('DatabaseCriticsBrowser' 'DatabaseCriticsBrowser-Tests');
+				group: 'default' with: #('DatabaseCriticsBrowser' 'DatabaseCriticsBrowser-Tests' 'DatabaseCriticsBrowser-GT');
 				group: 'exporter' with: #('default' 'DatabaseCriticsBrowser-Exporter');
 				group: 'UI' with: #('default' 'exporter' 'DatabaseCriticsBrowser-Spec' 'DatabaseCriticsBrowser-SpecTests');
 				group: 'UI-standalone' with: #('UI' 'DatabaseCriticsBrowser-Standalone');
+				group: 'dev' with: #('UI-standalone');
 				yourself
 		]
