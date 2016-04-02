@@ -5,20 +5,27 @@ baseline: spec
 		for: #common
 		do: [ 
 			spec
-				package: 'DatabaseCriticsBrowser' with: [ 
-					spec
-						requires: 'PetitSQLIsland' ];
+				package: 'DatabaseCriticsBrowser';
 				package: 'DatabaseCriticsBrowser-Spec' with: [
 					spec
 						requires: 'HelpCenter';
 						requires: 'SpecModelsAddOns';
 						requires: 'PgDumpLoader';
 						requires: 'ShortcutsCenter' ];
+				package: 'DatabaseCriticsBrowser-Standalone' with: [ 
+					spec
+						requires: 'DatabaseCriticsBrowser-Spec' ];
 				package: 'DatabaseCriticsBrowser-Exporter' with: [ 
 					spec
+						requires: 'DatabaseCriticsBrowser';
 						requires: 'XMLWriter' ];
-				package: 'DatabaseCriticsBrowser-Tests';
-				package: 'DatabaseCriticsBrowser-SpecTests'.
+				package: 'DatabaseCriticsBrowser-Tests' with: [
+					spec
+						requires: 'DatabaseCriticsBrowser' ];
+				package: 'DatabaseCriticsBrowser-SpecTests' with: [
+					spec
+						requires: 'DatabaseCriticsBrowser-Spec' ];
+				yourself.
 			spec
 				project: 'PetitSQLIsland' with: [ 
 					spec
@@ -43,5 +50,12 @@ baseline: spec
 					spec
 						className: 'ConfigurationOfXMLWriter';
 						version: #stable;
-						repository: 'http://smalltalkhub.com/mc/PharoExtras/XMLWriter/main' ]
+						repository: 'http://smalltalkhub.com/mc/PharoExtras/XMLWriter/main' ];
+				yourself.
+			spec
+				group: 'default' with: #('DatabaseCriticsBrowser' 'DatabaseCriticsBrowser-Tests');
+				group: 'exporter' with: #('default' 'DatabaseCriticsBrowser-Exporter');
+				group: 'UI' with: #('default' 'exporter' 'DatabaseCriticsBrowser-Spec' 'DatabaseCriticsBrowser-SpecTests');
+				group: 'UI-standalone' with: #('UI' 'DatabaseCriticsBrowser-Standalone');
+				yourself
 		]
