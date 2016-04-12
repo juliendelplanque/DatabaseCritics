@@ -1,0 +1,15 @@
+{
+	"class" : {
+		"defaultSpec" : "JulienDelplanque 3/3/2016 07:33",
+		"help" : "JulienDelplanque 3/9/2016 10:40",
+		"icon" : "JulienDelplanque 3/3/2016 11:16" },
+	"instance" : {
+		"couldNotChangeThreshold:" : "JulienDelplanque 3/10/2016 13:52",
+		"forwardAnnouncement:" : "JulienDelplanque 3/3/2016 12:15",
+		"initialize" : "JulienDelplanque 3/10/2016 13:54",
+		"initializePresenter" : "JulienDelplanque 4/12/2016 13:23",
+		"initializeWidgets" : "JulienDelplanque 3/3/2016 16:14",
+		"openWithSpec" : "JulienDelplanque 3/26/2016 11:17",
+		"thresholdEditor" : "JulienDelplanque 3/3/2016 07:15",
+		"thresholdRulesList" : "JulienDelplanque 3/2/2016 21:45",
+		"title" : "JulienDelplanque 3/3/2016 11:46" } }

@@ -1,0 +1,3 @@
+*DatabaseCritics
+isRule
+	^ false

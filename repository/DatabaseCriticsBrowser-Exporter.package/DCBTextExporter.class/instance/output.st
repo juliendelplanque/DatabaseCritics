@@ -1,3 +1,0 @@
-output
-output
-	^ outputStream contents

@@ -1,3 +1,0 @@
-buttons-actions
-applyAction
-	self setInitialItems

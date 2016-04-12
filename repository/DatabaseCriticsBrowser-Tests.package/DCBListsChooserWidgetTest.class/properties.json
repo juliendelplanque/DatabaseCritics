@@ -1,0 +1,14 @@
+{
+	"category" : "DatabaseCriticsBrowser-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"widget" ],
+	"name" : "DCBListsChooserWidgetTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

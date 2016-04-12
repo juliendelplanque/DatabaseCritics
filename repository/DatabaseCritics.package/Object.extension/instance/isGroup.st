@@ -1,0 +1,3 @@
+*DatabaseCritics
+isGroup
+	^ false

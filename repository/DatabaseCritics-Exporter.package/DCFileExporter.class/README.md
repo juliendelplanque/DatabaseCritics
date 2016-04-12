@@ -1,0 +1,1 @@
+I am an abstract file exporter for results of critic.

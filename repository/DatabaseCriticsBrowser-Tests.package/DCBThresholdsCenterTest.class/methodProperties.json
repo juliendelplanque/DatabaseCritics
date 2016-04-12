@@ -1,7 +1,0 @@
-{
-	"class" : {
-		 },
-	"instance" : {
-		"setUp" : "JulienDelplanque 3/9/2016 13:56",
-		"testResetThresholdOf" : "JulienDelplanque 3/9/2016 14:09",
-		"testSetAsThresholdFor" : "JulienDelplanque 3/9/2016 14:08" } }

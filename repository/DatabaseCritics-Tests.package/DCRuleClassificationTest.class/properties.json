@@ -1,0 +1,14 @@
+{
+	"category" : "DatabaseCritics-Tests-RulesClassification",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"rules" ],
+	"name" : "DCRuleClassificationTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

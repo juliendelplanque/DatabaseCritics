@@ -1,0 +1,18 @@
+{
+	"category" : "DatabaseCriticsBrowser-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 3/21/2016 16:47",
+	"instvars" : [
+		"rulesList",
+		"falsePositivesList",
+		"cancelApplyWidget",
+		"unmarkButton",
+		"falsePositiveToUnmark" ],
+	"name" : "DCBFalsePositivesManagerEditor",
+	"pools" : [
+		 ],
+	"super" : "DCBModel",
+	"type" : "normal" }

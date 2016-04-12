@@ -1,0 +1,14 @@
+{
+	"category" : "DatabaseCritics-Errors",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 4/12/2016 13:44",
+	"instvars" : [
+		 ],
+	"name" : "DCNoThreshold",
+	"pools" : [
+		 ],
+	"super" : "Error",
+	"type" : "normal" }

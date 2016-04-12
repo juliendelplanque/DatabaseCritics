@@ -1,0 +1,8 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "JulienDelplanque 4/12/2016 13:21",
+		"testIsEntityMarkedAsFalsePositiveFor" : "JulienDelplanque 4/12/2016 13:23",
+		"testMarkAsFalsePositiveFor" : "JulienDelplanque 4/12/2016 13:23",
+		"testUnmarkAsFalsePositiveFor" : "JulienDelplanque 4/12/2016 13:23" } }

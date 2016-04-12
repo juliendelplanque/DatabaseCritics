@@ -1,0 +1,1 @@
+I am the object centralizing all the thresholds of rules inheriting from DCRuleWithThreshold.

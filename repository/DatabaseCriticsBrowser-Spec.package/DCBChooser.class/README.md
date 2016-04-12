@@ -1,1 +1,0 @@
-Abstract class to choose items from a list.

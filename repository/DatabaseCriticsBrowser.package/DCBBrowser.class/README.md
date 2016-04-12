@@ -1,0 +1,1 @@
+I am the main widget of the Database critics browser.

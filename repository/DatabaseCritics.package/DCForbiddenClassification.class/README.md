@@ -1,0 +1,1 @@
+I am the error raised when a forbidden classification is used to build nested classification.

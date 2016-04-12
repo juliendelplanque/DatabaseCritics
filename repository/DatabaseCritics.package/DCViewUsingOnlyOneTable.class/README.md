@@ -1,0 +1,1 @@
+If a view is using only one table, there is no need reason for it to exists since a simple SELECT request can do the job.

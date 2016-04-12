@@ -1,0 +1,19 @@
+{
+	"category" : "DatabaseCriticsBrowser-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 3/30/2016 14:46",
+	"instvars" : [
+		"cancelApplyWidget",
+		"listsChooser",
+		"needAtLeastOneElementInRightList",
+		"addRemoveWidget",
+		"leftItems",
+		"rightItems" ],
+	"name" : "DCBChooser",
+	"pools" : [
+		 ],
+	"super" : "DCBModel",
+	"type" : "normal" }

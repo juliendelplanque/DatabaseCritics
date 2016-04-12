@@ -1,0 +1,14 @@
+{
+	"category" : "DatabaseCritics-Errors",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 4/1/2016 09:55",
+	"instvars" : [
+		"classification" ],
+	"name" : "DCForbiddenClassification",
+	"pools" : [
+		 ],
+	"super" : "Error",
+	"type" : "normal" }

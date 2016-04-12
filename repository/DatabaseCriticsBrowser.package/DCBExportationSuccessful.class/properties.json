@@ -1,0 +1,14 @@
+{
+	"category" : "DatabaseCriticsBrowser-Announcements",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 2/25/2016 09:42",
+	"instvars" : [
+		"filePath" ],
+	"name" : "DCBExportationSuccessful",
+	"pools" : [
+		 ],
+	"super" : "Announcement",
+	"type" : "normal" }

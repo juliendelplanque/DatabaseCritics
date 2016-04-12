@@ -1,0 +1,3 @@
+*DatabaseCritics-GT
+gtChildren
+	^ #()

@@ -1,0 +1,14 @@
+{
+	"category" : "DatabaseCritics-Tests-Severity",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "DCSeverityTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

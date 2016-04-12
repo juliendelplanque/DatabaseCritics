@@ -1,0 +1,15 @@
+{
+	"category" : "DatabaseCriticsBrowser-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"widget",
+		"window" ],
+	"name" : "DCBTreeListButtonTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

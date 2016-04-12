@@ -1,0 +1,14 @@
+{
+	"category" : "DatabaseCritics-RulesClassification",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 3/3/2016 21:20",
+	"instvars" : [
+		 ],
+	"name" : "DCThresholdClassification",
+	"pools" : [
+		 ],
+	"super" : "DCRuleClassification",
+	"type" : "normal" }
