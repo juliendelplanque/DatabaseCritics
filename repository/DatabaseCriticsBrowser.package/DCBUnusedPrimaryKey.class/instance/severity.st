@@ -1,3 +1,0 @@
-accessing
-severity
-	^ DCBWarning new

@@ -1,3 +1,0 @@
-reseting
-resetThreshold
-	DCBThresholdsCenter current resetThresholdOf: self

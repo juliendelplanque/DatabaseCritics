@@ -1,0 +1,14 @@
+{
+	"category" : "DatabaseCritics-Rules",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"FalsePositivesManager" ],
+	"commentStamp" : "JulienDelplanque 3/23/2016 15:22",
+	"instvars" : [
+		"entitiesViolatingTheRule" ],
+	"name" : "DCRule",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

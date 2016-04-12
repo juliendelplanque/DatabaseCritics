@@ -1,0 +1,12 @@
+{
+	"class" : {
+		"isApplicable" : "JulienDelplanque 3/2/2016 21:57",
+		"isConcrete" : "JulienDelplanque 3/2/2016 21:55",
+		"isThresholdSet" : "JulienDelplanque 3/2/2016 20:34",
+		"resetThreshold" : "JulienDelplanque 4/12/2016 13:28",
+		"threshold" : "JulienDelplanque 4/12/2016 13:28",
+		"threshold:" : "JulienDelplanque 4/12/2016 13:28",
+		"thresholdClass" : "JulienDelplanque 3/2/2016 19:20" },
+	"instance" : {
+		"severity" : "JulienDelplanque 4/12/2016 13:28",
+		"threshold" : "JulienDelplanque 3/3/2016 13:24" } }

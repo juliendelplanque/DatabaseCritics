@@ -1,0 +1,1 @@
+This exception is raised by DCThresholdCenter when no threshold is available for the class requested.

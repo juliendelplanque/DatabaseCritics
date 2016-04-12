@@ -1,0 +1,14 @@
+{
+	"category" : "DatabaseCritics-Rules",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 3/30/2016 17:19",
+	"instvars" : [
+		 ],
+	"name" : "DCViewUsingOnlyOneTable",
+	"pools" : [
+		 ],
+	"super" : "DCRule",
+	"type" : "normal" }
