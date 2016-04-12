@@ -1,4 +1,4 @@
-*DatabaseCriticsBrowser-GT
+*DatabaseCritics-GT
 gtTreePreviewIn: composite
 	<gtInspectorPresentationOrder: 5>
 	composite tree

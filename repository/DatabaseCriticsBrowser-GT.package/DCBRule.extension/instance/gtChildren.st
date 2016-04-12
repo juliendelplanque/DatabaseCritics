@@ -1,3 +1,0 @@
-*DatabaseCriticsBrowser-GT
-gtChildren
-	^ #()

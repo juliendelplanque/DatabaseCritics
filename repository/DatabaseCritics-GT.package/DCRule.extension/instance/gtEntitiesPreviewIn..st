@@ -1,4 +1,4 @@
-*DatabaseCriticsBrowser-GT
+*DatabaseCritics-GT
 gtEntitiesPreviewIn: composite
 	<gtInspectorPresentationOrder: 0>
 	composite list

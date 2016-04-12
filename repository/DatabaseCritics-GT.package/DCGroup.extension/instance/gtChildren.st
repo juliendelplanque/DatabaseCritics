@@ -1,3 +1,3 @@
-*DatabaseCriticsBrowser-GT
+*DatabaseCritics-GT
 gtChildren
 	^ self children

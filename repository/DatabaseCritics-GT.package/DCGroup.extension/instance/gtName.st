@@ -1,4 +1,4 @@
-*DatabaseCriticsBrowser-GT
+*DatabaseCritics-GT
 gtName
 	^ self groupName
 		
