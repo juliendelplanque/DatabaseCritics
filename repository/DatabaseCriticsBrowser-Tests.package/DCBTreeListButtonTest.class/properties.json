@@ -1,13 +1,14 @@
 {
-	"category" : "DatabaseCriticsBrowser-SpecTests",
+	"category" : "DatabaseCriticsBrowser-Tests",
 	"classinstvars" : [
 		 ],
 	"classvars" : [
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"thresholdsEditor" ],
-	"name" : "DCBThresholdsEditorTest",
+		"widget",
+		"window" ],
+	"name" : "DCBTreeListButtonTest",
 	"pools" : [
 		 ],
 	"super" : "TestCase",

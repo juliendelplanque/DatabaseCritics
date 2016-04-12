@@ -1,13 +1,13 @@
 {
-	"category" : "DatabaseCriticsBrowser-SpecTests",
+	"category" : "DatabaseCriticsBrowser-Tests",
 	"classinstvars" : [
 		 ],
 	"classvars" : [
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"rulesChooser" ],
-	"name" : "DCBRulesChooserTest",
+		"widget" ],
+	"name" : "DCBAddRemoveButtonsTest",
 	"pools" : [
 		 ],
 	"super" : "TestCase",

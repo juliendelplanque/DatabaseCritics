@@ -1,7 +1,7 @@
 tests-accessing
 testRuleClass
 	| ruleClass backupThreshold |
-	ruleClass := DCBRuleWithThreshold subclasses first.
+	ruleClass := DCRuleWithThreshold subclasses first.
 	backupThreshold := ruleClass threshold.
 	ruleClass resetThreshold.
 	thresholdEditor ruleClass: ruleClass.

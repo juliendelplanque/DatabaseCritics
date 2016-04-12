@@ -1,7 +1,7 @@
 tests-actions
 testUpdateThreshold
 	| ruleClass backupThreshold announcement |
-	ruleClass := DCBHighNumberOfColumns.
+	ruleClass := DCHighNumberOfColumns.
 	backupThreshold := ruleClass threshold.
 	
 	announcement := nil.
