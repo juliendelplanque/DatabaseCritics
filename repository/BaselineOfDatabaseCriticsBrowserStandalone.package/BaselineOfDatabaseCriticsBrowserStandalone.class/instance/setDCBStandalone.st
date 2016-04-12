@@ -1,3 +1,0 @@
-post-install
-setDCBStandalone
-	DCBBrowser beStandalone
