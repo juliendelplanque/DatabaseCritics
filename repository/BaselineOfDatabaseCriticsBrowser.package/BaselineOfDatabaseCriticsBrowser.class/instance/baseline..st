@@ -5,27 +5,27 @@ baseline: spec
 		for: #common
 		do: [ 
 			spec
-				package: 'DatabaseCriticsBrowser' with: [
+				package: 'DatabaseCritics' with: [
 					spec
 						requires: #('Famix-SQL') ];
-				package: 'DatabaseCriticsBrowser-GT' with: [
+				package: 'DatabaseCritics-GT' with: [
 					spec
-						requires: #('DatabaseCriticsBrowser') ];
-				package: 'DatabaseCriticsBrowser-Spec' with: [
+						requires: #('DatabaseCritics') ];
+				package: 'DatabaseCriticsBrowser' with: [
 					spec
-						requires: #('HelpCenter' 'SpecModelsAddOns' 'ShortcutsCenter') ];
+						requires: #('DatabaseCritics' 'DatabaseCritics-Exporter' 'HelpCenter' 'SpecModelsAddOns' 'ShortcutsCenter') ];
 				package: 'DatabaseCriticsBrowser-Standalone' with: [ 
 					spec
-						requires: #('DatabaseCriticsBrowser-Spec') ];
-				package: 'DatabaseCriticsBrowser-Exporter' with: [ 
+						requires: #('DatabaseCriticsBrowser') ];
+				package: 'DatabaseCritics-Exporter' with: [ 
 					spec
-						requires: #('DatabaseCriticsBrowser' 'XMLWriter') ];
+						requires: #('DatabaseCritics' 'XMLWriter') ];
+				package: 'DatabaseCritics-Tests' with: [
+					spec
+						requires: #('DatabaseCritics') ];
 				package: 'DatabaseCriticsBrowser-Tests' with: [
 					spec
 						requires: #('DatabaseCriticsBrowser') ];
-				package: 'DatabaseCriticsBrowser-SpecTests' with: [
-					spec
-						requires: #('DatabaseCriticsBrowser-Spec') ];
 				yourself.
 			spec
 				project: 'Famix-SQL' with: [ 
@@ -49,9 +49,9 @@ baseline: spec
 						repository: 'http://smalltalkhub.com/mc/PharoExtras/XMLWriter/main' ];
 				yourself.
 			spec
-				group: 'default' with: #('DatabaseCriticsBrowser' 'DatabaseCriticsBrowser-Tests' 'DatabaseCriticsBrowser-GT');
-				group: 'exporter' with: #('default' 'DatabaseCriticsBrowser-Exporter');
-				group: 'UI' with: #('default' 'exporter' 'DatabaseCriticsBrowser-Spec' 'DatabaseCriticsBrowser-SpecTests');
+				group: 'default' with: #('DatabaseCritics' 'DatabaseCritics-Tests' 'DatabaseCritics-GT');
+				group: 'exporter' with: #('default' 'DatabaseCritics-Exporter');
+				group: 'UI' with: #('default' 'exporter' 'DatabaseCriticsBrowser' 'DatabaseCriticsBrowser-Tests');
 				group: 'UI-standalone' with: #('UI' 'DatabaseCriticsBrowser-Standalone');
 				group: 'dev' with: #('UI-standalone');
 				yourself
