@@ -1,0 +1,14 @@
+{
+	"category" : "DatabaseCritics-Tests-Rules",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "DCLowNumberOfColumnsTest",
+	"pools" : [
+		 ],
+	"super" : "DCRuleTest",
+	"type" : "normal" }

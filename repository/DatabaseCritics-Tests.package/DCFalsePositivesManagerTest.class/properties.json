@@ -1,0 +1,14 @@
+{
+	"category" : "DatabaseCritics-Tests-FalsePositives",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"falsePositivesManager" ],
+	"name" : "DCFalsePositivesManagerTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

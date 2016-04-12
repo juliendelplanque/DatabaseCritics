@@ -1,0 +1,14 @@
+{
+	"category" : "DatabaseCritics-Tests-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"modelChecker" ],
+	"name" : "DCModelCheckerTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }
