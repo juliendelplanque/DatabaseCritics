@@ -1,0 +1,15 @@
+{
+	"category" : "DatabaseCriticsBrowser-Announcements",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 3/3/2016 11:52",
+	"instvars" : [
+		"ruleClass",
+		"newThreshold" ],
+	"name" : "DCBThresholdChanged",
+	"pools" : [
+		 ],
+	"super" : "Announcement",
+	"type" : "normal" }

@@ -1,0 +1,18 @@
+{
+	"class" : {
+		"help" : "JulienDelplanque 2/7/2016 11:38",
+		"icon" : "JulienDelplanque 2/3/2016 14:16" },
+	"instance" : {
+		"announceNewRulesSelected" : "JulienDelplanque 3/30/2016 14:47",
+		"anyListElementClassIs:" : "JulienDelplanque 3/30/2016 14:59",
+		"applyAction" : "JulienDelplanque 3/3/2016 19:21",
+		"initializeArrows" : "JulienDelplanque 2/25/2016 09:53",
+		"initializePresenter" : "JulienDelplanque 2/8/2016 08:36",
+		"leftListInitialItems" : "JulienDelplanque 4/12/2016 13:22",
+		"leftListLabel" : "JulienDelplanque 1/31/2016 15:09",
+		"listenToThresholdsEditor:" : "JulienDelplanque 3/3/2016 14:41",
+		"refreshList:withItems:" : "JulienDelplanque 3/30/2016 15:06",
+		"refreshLists" : "JulienDelplanque 3/30/2016 15:06",
+		"rightListLabel" : "JulienDelplanque 1/31/2016 15:09",
+		"thresholdChanged:" : "JulienDelplanque 3/30/2016 14:59",
+		"title" : "JulienDelplanque 1/31/2016 15:11" } }

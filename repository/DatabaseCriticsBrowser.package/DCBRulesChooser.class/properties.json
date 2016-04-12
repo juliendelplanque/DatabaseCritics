@@ -1,0 +1,14 @@
+{
+	"category" : "DatabaseCriticsBrowser-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 1/30/2016 11:33",
+	"instvars" : [
+		 ],
+	"name" : "DCBRulesChooser",
+	"pools" : [
+		 ],
+	"super" : "DCBAllAddableChooser",
+	"type" : "normal" }

@@ -1,0 +1,21 @@
+{
+	"class" : {
+		"help" : "JulienDelplanque 2/7/2016 11:38",
+		"icon" : "JulienDelplanque 2/3/2016 14:15",
+		"root:" : "JulienDelplanque 2/3/2016 09:49" },
+	"instance" : {
+		"applyAction" : "JulienDelplanque 2/25/2016 09:47",
+		"buildExporters" : "JulienDelplanque 2/6/2016 20:27",
+		"createFileNameFor:" : "JulienDelplanque 2/3/2016 10:22",
+		"initialize" : "JulienDelplanque 2/5/2016 08:02",
+		"initializeArrows" : "JulienDelplanque 2/25/2016 09:53",
+		"initializePresenter" : "JulienDelplanque 2/8/2016 08:37",
+		"lastDirectory" : "JulienDelplanque 2/5/2016 08:02",
+		"lastDirectory:" : "JulienDelplanque 2/5/2016 08:02",
+		"leftListInitialItems" : "JulienDelplanque 4/12/2016 14:22",
+		"leftListLabel" : "JulienDelplanque 2/3/2016 09:24",
+		"rightListLabel" : "JulienDelplanque 2/3/2016 09:24",
+		"root" : "JulienDelplanque 2/3/2016 09:46",
+		"root:" : "JulienDelplanque 2/3/2016 09:46",
+		"title" : "JulienDelplanque 2/3/2016 09:25",
+		"writeFilesFrom:in:" : "JulienDelplanque 4/1/2016 15:57" } }

@@ -1,0 +1,15 @@
+{
+	"category" : "DatabaseCriticsBrowser-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 2/3/2016 10:28",
+	"instvars" : [
+		"root",
+		"lastDirectory" ],
+	"name" : "DCBExportersChooser",
+	"pools" : [
+		 ],
+	"super" : "DCBAllAddableChooser",
+	"type" : "normal" }

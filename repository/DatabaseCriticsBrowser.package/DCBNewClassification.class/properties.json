@@ -1,0 +1,14 @@
+{
+	"category" : "DatabaseCriticsBrowser-Announcements",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 1/28/2016 13:31",
+	"instvars" : [
+		"newClassification" ],
+	"name" : "DCBNewClassification",
+	"pools" : [
+		 ],
+	"super" : "Announcement",
+	"type" : "normal" }

@@ -1,0 +1,15 @@
+{
+	"category" : "DatabaseCriticsBrowser-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 3/3/2016 11:12",
+	"instvars" : [
+		"thresholdRulesList",
+		"thresholdEditor" ],
+	"name" : "DCBThresholdsEditor",
+	"pools" : [
+		 ],
+	"super" : "DCBModel",
+	"type" : "normal" }

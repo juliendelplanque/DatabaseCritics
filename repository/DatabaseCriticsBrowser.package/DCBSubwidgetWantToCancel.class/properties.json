@@ -1,0 +1,14 @@
+{
+	"category" : "DatabaseCriticsBrowser-Announcements",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 3/3/2016 10:05",
+	"instvars" : [
+		"subwidget" ],
+	"name" : "DCBSubwidgetWantToCancel",
+	"pools" : [
+		 ],
+	"super" : "Announcement",
+	"type" : "normal" }

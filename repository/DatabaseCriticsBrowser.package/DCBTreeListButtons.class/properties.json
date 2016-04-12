@@ -1,0 +1,19 @@
+{
+	"category" : "DatabaseCriticsBrowser-Subwidgets",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 2/9/2016 18:07",
+	"instvars" : [
+		"treeLabel",
+		"listLabel",
+		"tree",
+		"list",
+		"leftButton",
+		"rightButton" ],
+	"name" : "DCBTreeListButtons",
+	"pools" : [
+		 ],
+	"super" : "ComposableModel",
+	"type" : "normal" }

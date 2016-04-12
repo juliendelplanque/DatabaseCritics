@@ -1,0 +1,15 @@
+{
+	"category" : "DatabaseCriticsBrowser-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 2/24/2016 15:35",
+	"instvars" : [
+		"widgetList",
+		"shortcutsCenterWidget" ],
+	"name" : "DCBShortcutsDocViewer",
+	"pools" : [
+		 ],
+	"super" : "DCBModel",
+	"type" : "normal" }

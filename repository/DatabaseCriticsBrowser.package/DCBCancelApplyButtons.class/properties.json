@@ -1,0 +1,14 @@
+{
+	"category" : "DatabaseCriticsBrowser-Subwidgets",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 2/23/2016 21:11",
+	"instvars" : [
+		"okButton" ],
+	"name" : "DCBCancelApplyButtons",
+	"pools" : [
+		 ],
+	"super" : "DCBAbstractButtons",
+	"type" : "normal" }

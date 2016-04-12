@@ -1,0 +1,15 @@
+{
+	"category" : "DatabaseCriticsBrowser-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 1/28/2016 13:36",
+	"instvars" : [
+		"updown",
+		"isReversedCheckbox" ],
+	"name" : "DCBClassificationChooser",
+	"pools" : [
+		 ],
+	"super" : "DCBChooser",
+	"type" : "normal" }
