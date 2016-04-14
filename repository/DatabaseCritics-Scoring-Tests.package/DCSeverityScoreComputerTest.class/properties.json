@@ -1,0 +1,14 @@
+{
+	"category" : "DatabaseCritics-Scoring-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"scoreComputer" ],
+	"name" : "DCSeverityScoreComputerTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }
