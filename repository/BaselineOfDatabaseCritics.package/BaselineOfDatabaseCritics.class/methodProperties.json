@@ -2,4 +2,12 @@
 	"class" : {
 		 },
 	"instance" : {
-		"baseline:" : "JulienDelplanque 4/12/2016 14:44" } }
+		"baseline:" : "JulienDelplanque 4/14/2016 11:53",
+		"defineDependencies:" : "JulienDelplanque 4/14/2016 11:52",
+		"defineGroups:" : "JulienDelplanque 4/14/2016 11:38",
+		"definePackages:" : "JulienDelplanque 4/14/2016 11:43",
+		"famixSQL:" : "JulienDelplanque 4/14/2016 11:45",
+		"helpCenter:" : "JulienDelplanque 4/14/2016 11:50",
+		"shortcutsCenter:" : "JulienDelplanque 4/14/2016 11:50",
+		"specModelsAddOns:" : "JulienDelplanque 4/14/2016 11:50",
+		"xmlWriter:" : "JulienDelplanque 4/14/2016 11:51" } }
