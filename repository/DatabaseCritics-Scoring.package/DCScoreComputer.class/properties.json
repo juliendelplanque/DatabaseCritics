@@ -1,0 +1,15 @@
+{
+	"category" : "DatabaseCritics-Scoring",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 4/12/2016 16:20",
+	"instvars" : [
+		"rules",
+		"model" ],
+	"name" : "DCScoreComputer",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

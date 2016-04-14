@@ -1,0 +1,14 @@
+{
+	"category" : "DatabaseCritics-Scoring",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 4/12/2016 16:24",
+	"instvars" : [
+		 ],
+	"name" : "DCSeverityScoreComputer",
+	"pools" : [
+		 ],
+	"super" : "DCScoreComputer",
+	"type" : "normal" }
