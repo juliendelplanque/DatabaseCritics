@@ -1,13 +1,13 @@
 {
-	"category" : "BaselineOfDatabaseCriticsBrowser",
+	"category" : "BaselineOfDatabaseCritics",
 	"classinstvars" : [
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "",
+	"commentStamp" : "JulienDelplanque 4/14/2016 11:28",
 	"instvars" : [
 		 ],
-	"name" : "BaselineOfDatabaseCriticsBrowser",
+	"name" : "BaselineOfDatabaseCritics",
 	"pools" : [
 		 ],
 	"super" : "BaselineOf",
