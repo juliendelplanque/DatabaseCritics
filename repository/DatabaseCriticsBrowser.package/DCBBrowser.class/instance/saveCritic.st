@@ -11,7 +11,7 @@ saveCritic
 	reference ifNil: [ ^ self ]. "If the reference is nil, just abort silently."
 
 	DCCritic new
-		falsePositivesManager: DCRule falsePositivesManager;
+		"falsePositivesManager: DCRule falsePositivesManager;" "False positives are now hold by rules."
 		mooseModel: modelChecker model;
 		classifier: classifier;
 		rulesApplied: classifier rules;

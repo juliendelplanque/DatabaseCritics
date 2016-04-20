@@ -13,7 +13,7 @@ loadCritic
 	critic := DCCritic readFromFile: multiByteFileStream fullName.
 	
 	"...and then update what needs to be."
-	DCRule falsePositivesManager: critic falsePositivesManager.
+	"DCRule falsePositivesManager: critic falsePositivesManager." "False positives are now hold by rules."
 	modelChecker model: critic mooseModel.
 	modelChecker rules: critic rulesApplied.
 	classifier := critic classifier.

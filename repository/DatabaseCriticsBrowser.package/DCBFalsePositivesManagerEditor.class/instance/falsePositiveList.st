@@ -1,4 +1,3 @@
 helpers
 falsePositiveList
-	^ (DCRule falsePositivesManager 
-			falsePositiveFor: rulesList selectedItem) \ falsePositiveToUnmark
+	^ rulesList selectedItem falsePositives \ falsePositiveToUnmark

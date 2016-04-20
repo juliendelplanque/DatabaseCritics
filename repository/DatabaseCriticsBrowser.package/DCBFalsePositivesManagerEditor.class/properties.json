@@ -10,7 +10,8 @@
 		"falsePositivesList",
 		"cancelApplyWidget",
 		"unmarkButton",
-		"falsePositiveToUnmark" ],
+		"falsePositiveToUnmark",
+		"rules" ],
 	"name" : "DCBFalsePositivesManagerEditor",
 	"pools" : [
 		 ],
