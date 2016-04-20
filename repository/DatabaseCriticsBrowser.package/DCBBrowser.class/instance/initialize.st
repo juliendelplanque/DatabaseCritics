@@ -19,6 +19,8 @@ initialize
 	falsePositivesManagerEditor := DCBFalsePositivesManagerEditor new.
 	falsePositivesManagerEditor announcer weak
 		when: DCBFalsePositivesUpdated send: #falsePositivesUpdated: to: self.
+	self announcer
+		when: DCBEntityMarkedAsFalsePositive send: #newEntityMarkedAsFalsePositive: to: falsePositivesManagerEditor.
 	rulesChooser announcer weak
 		when: DCBNewRulesChosen send: #newRulesChosen: to: falsePositivesManagerEditor.
 	helpCenter := HelpCenterWidget opener: self helpPragma: #dcbHelp: iconPragma: #dcbIcon: openPragma: #dcbOpen:.

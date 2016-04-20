@@ -1,0 +1,14 @@
+{
+	"category" : "DatabaseCriticsBrowser-Announcements",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 4/20/2016 14:45",
+	"instvars" : [
+		"entity" ],
+	"name" : "DCBEntityMarkedAsFalsePositive",
+	"pools" : [
+		 ],
+	"super" : "DCBAnnouncement",
+	"type" : "normal" }
