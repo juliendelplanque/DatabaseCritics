@@ -1,4 +1,5 @@
 initialization
 initialize
 	super initialize.
-	self clearEntitiesViolatingTheRule
+	self clearEntitiesViolatingTheRule.
+	self falsePositives: OrderedCollection new

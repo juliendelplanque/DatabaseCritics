@@ -6,7 +6,8 @@
 		"FalsePositivesManager" ],
 	"commentStamp" : "JulienDelplanque 3/23/2016 15:22",
 	"instvars" : [
-		"entitiesViolatingTheRule" ],
+		"entitiesViolatingTheRule",
+		"falsePositives" ],
 	"name" : "DCRule",
 	"pools" : [
 		 ],
