@@ -4,11 +4,11 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "JulienDelplanque 4/17/2016 16:39",
+	"commentStamp" : "JulienDelplanque 4/20/2016 14:32",
 	"instvars" : [
-		"rule" ],
-	"name" : "DCThresholdIsNotSet",
+		 ],
+	"name" : "DCError",
 	"pools" : [
 		 ],
-	"super" : "DCError",
+	"super" : "Error",
 	"type" : "normal" }

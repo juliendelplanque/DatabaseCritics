@@ -1,0 +1,1 @@
+I am an abstract DatabaseCritics error. All errors defined in this package will subclass me.

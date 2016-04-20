@@ -10,5 +10,5 @@
 	"name" : "DCForbiddenClassification",
 	"pools" : [
 		 ],
-	"super" : "Error",
+	"super" : "DCError",
 	"type" : "normal" }
