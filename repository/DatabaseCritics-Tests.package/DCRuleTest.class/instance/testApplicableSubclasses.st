@@ -1,4 +1,4 @@
 test-appliable
-testAppliableSubclasses
+testApplicableSubclasses
 	DCRule applicableSubclasses do: [ :class |
 		self assert: class isApplicable ]
