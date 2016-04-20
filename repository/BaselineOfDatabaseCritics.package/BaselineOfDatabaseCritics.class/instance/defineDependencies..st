@@ -5,5 +5,6 @@ defineDependencies: spec
 		helpCenter: spec;
 		specModelsAddOns: spec;
 		shortcutsCenter: spec;
-		xmlWriter: spec.
+		xmlWriter: spec;
+		pgDumpLoader: spec.
 	^ spec
