@@ -1,12 +1,10 @@
 tests-entity-checking
 testRunOn
-	| test entity entities originalThreshold |
+	| test entity entities |
 	self generateModelFrom: self mseString.
 	test := DCLowNumberOfColumns new.
-	"Backup current threshold."
-	originalThreshold := DCLowNumberOfColumns threshold.
 	"Set test threshold."
-	DCLowNumberOfColumns threshold: 3.
+	test threshold: 3.
 	"Test"
 	entity := (model entities detect: [ :e | e name = 'theme' ]).
 	test runOn: entity.
@@ -16,8 +14,3 @@ testRunOn
 	entities do: [ :key |
 		test runOn: key.
 		self assert: test entitiesViolatingTheRule size equals: 1 ].
-
-	"Set the original threshold back."
-	originalThreshold
-		ifNil: [ DCLowNumberOfColumns resetThreshold ]
-		ifNotNil: [ DCLowNumberOfColumns threshold: originalThreshold ]
