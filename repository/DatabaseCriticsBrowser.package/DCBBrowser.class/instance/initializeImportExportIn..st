@@ -2,12 +2,13 @@ initialization-menu
 initializeImportExportIn: group
 	self class isStandalone "Add the button to load dump only in standalone mode."
 		ifTrue: [ 
-			group addItem: [ :item | 
+			"This is not working yet, need to wait for the Famix model to be more stable."
+			"group addItem: [ :item | 
 				item
 					name: nil;
 					description: 'Load a MSE file.';
 					icon: MooseIcons mooseImportMse;
-					action: [ self askAndLoadDump ] ] ].
+					action: [ self askAndLoadDump ] ]" ].
 	group addItem: [ :item | 
 		item
 			name: nil;

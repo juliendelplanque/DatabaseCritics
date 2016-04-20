@@ -1,11 +1,11 @@
 accessing
-ruleClass: anObject
-	ruleClass := anObject.
-	ruleClass threshold isNil
+rule: aRule
+	rule := aRule.
+	rule threshold isNil
 		ifFalse: [
 			self undefinedCheck state: false.
 			self inputField
-				text: ruleClass threshold asString ]
+				text: rule threshold asString ]
 		ifTrue: [ 
 			self undefinedCheck state: true.
 			self undefinedThreshold ]

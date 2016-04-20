@@ -10,7 +10,8 @@
 		"inputField",
 		"cancelApply",
 		"label",
-		"undefinedCheck" ],
+		"undefinedCheck",
+		"rule" ],
 	"name" : "DCBThresholdEditor",
 	"pools" : [
 		 ],

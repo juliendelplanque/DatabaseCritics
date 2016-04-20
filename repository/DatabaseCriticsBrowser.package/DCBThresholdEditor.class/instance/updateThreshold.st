@@ -1,16 +1,16 @@
 actions
 updateThreshold
 	self undefinedCheck state
-		ifTrue: [ self ruleClass resetThreshold  ]
+		ifTrue: [ self rule resetThreshold  ]
 		ifFalse: [ 
-			[ self ruleClass
-				threshold: (self ruleClass thresholdClass readFrom: self inputField text) ]
+			[ self rule
+				threshold: (self rule thresholdClass readFrom: self inputField text) ]
 				on: Error
 				do: [ :error | 
 					self announce: (DCBCouldNotChangeThreshold
-											ruleClass: self ruleClass
+											rule: self rule
 											inputText: (self inputField text)
 											initialError: error).
 					^ self ] ].
 	
-	self announce: (DCBThresholdChanged ruleClass: self ruleClass newThreshold: self ruleClass threshold)
+	self announce: (DCBThresholdChanged rule: self rule newThreshold: self rule threshold)

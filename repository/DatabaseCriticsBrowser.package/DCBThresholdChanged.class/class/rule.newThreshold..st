@@ -1,6 +1,6 @@
 instance creation
-ruleClass: aClass newThreshold: anObject
+rule: aRule newThreshold: anObject
 	^ self new
-		ruleClass: aClass;
+		rule: aRule;
 		newThreshold: anObject;
 		yourself

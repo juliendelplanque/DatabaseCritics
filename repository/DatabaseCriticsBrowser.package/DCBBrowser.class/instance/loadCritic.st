@@ -1,6 +1,7 @@
 critics-save/load
 loadCritic
 	| multiByteFileStream critic |
+	self flag: 'This is not working anymore. It should be re-writted when the Famix model is stable.'.
 	multiByteFileStream := UIManager default
 									fileOpen: 'Load a critic'
 									extensions: #('critic')
@@ -24,5 +25,5 @@ loadCritic
 	classificationChooser
 		leftItems:(classificationChooser leftListInitialItems reject: [ :c | (classifier classificationsList collect: #class) includes: c class ]);
 		rightItems: classifier classificationsList.
-	DCThresholdsCenter current: critic thresholdsCenter.
+	"DCThresholdsCenter current: critic thresholdsCenter." "Thresholds are now stored in rules."
 	self updateSubwidgets.

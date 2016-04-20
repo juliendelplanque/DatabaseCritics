@@ -2,11 +2,11 @@ announcement handling
 thresholdChanged: aDCBThresholdChanged
 	aDCBThresholdChanged newThreshold
 		ifNil: [
-			leftItems := leftItems reject: [ :rule | rule class = aDCBThresholdChanged ruleClass ].
-			rightItems := rightItems reject: [ :rule | rule class = aDCBThresholdChanged ruleClass ] ]
+			leftItems := leftItems reject: [ :rule | rule class = aDCBThresholdChanged rule class ].
+			rightItems := rightItems reject: [ :rule | rule class = aDCBThresholdChanged rule class ] ]
 		ifNotNil: [ 
-			(self anyListElementClassIs: aDCBThresholdChanged ruleClass)
-					ifFalse: [ leftItems add: aDCBThresholdChanged ruleClass new ] ].
+			(self anyListElementClassIs: aDCBThresholdChanged rule class)
+					ifFalse: [ leftItems add: aDCBThresholdChanged rule ] ].
 	self refreshLists.
 	self announceNewRulesSelected.
 	self enableDisableButtons.

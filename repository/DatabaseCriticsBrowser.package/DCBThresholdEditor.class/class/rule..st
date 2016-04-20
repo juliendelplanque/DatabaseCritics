@@ -1,5 +1,5 @@
 instance creation
-ruleClass: aClass
+rule: aRule
 	^ self new
-		ruleClass: aClass;
+		rule: aRule;
 		yourself

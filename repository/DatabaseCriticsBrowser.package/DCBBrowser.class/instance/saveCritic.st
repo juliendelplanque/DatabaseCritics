@@ -1,6 +1,7 @@
 critics-save/load
 saveCritic
 	| reference |
+	self flag: 'This is not working anymore. It should be re-writted when the Famix model is stable.'.
 	reference := UIManager default 
 		fileSave: 'Save Database Critic' 
 		initialAnswer: 'critic.critic'
@@ -14,5 +15,5 @@ saveCritic
 		mooseModel: modelChecker model;
 		classifier: classifier;
 		rulesApplied: classifier rules;
-		thresholdsCenter: DCThresholdsCenter current;
+		"thresholdsCenter: DCThresholdsCenter current;" "Thresholds are now stored in rules."
 		writeInFile: reference.

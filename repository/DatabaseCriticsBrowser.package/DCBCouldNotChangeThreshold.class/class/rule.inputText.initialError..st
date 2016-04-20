@@ -1,7 +1,7 @@
 instance creation
-ruleClass: aClass inputText: aString initialError: anError
+rule: aRule inputText: aString initialError: anError
 	^ self new
-		ruleClass: aClass;
+		rule: aRule;
 		inputText: aString;
 		initialError: anError;
 		yourself
