@@ -7,7 +7,7 @@
 	"commentStamp" : "JulienDelplanque 4/12/2016 13:45",
 	"instvars" : [
 		 ],
-	"name" : "DCWarning",
+	"name" : "DCInfoSeverity",
 	"pools" : [
 		 ],
 	"super" : "DCSeverity",

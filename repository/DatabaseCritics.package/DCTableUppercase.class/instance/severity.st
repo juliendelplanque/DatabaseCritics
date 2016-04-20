@@ -1,3 +1,3 @@
 accessing
 severity
-	^ DCInfo new
+	^ DCInfoSeverity new
