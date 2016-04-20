@@ -10,5 +10,5 @@
 	"name" : "DCBSubwidgetWantToCancel",
 	"pools" : [
 		 ],
-	"super" : "Announcement",
+	"super" : "DCBAnnouncement",
 	"type" : "normal" }

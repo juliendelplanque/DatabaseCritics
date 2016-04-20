@@ -11,5 +11,5 @@
 	"name" : "DCBThresholdChanged",
 	"pools" : [
 		 ],
-	"super" : "Announcement",
+	"super" : "DCBAnnouncement",
 	"type" : "normal" }

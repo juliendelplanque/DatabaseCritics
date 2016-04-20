@@ -4,11 +4,11 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "JulienDelplanque 1/28/2016 13:31",
+	"commentStamp" : "JulienDelplanque 4/20/2016 14:16",
 	"instvars" : [
-		"newClassification" ],
-	"name" : "DCBNewClassification",
+		 ],
+	"name" : "DCBAnnouncement",
 	"pools" : [
 		 ],
-	"super" : "DCBAnnouncement",
+	"super" : "Announcement",
 	"type" : "normal" }

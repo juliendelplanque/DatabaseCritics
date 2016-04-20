@@ -10,5 +10,5 @@
 	"name" : "DCBExportationSuccessful",
 	"pools" : [
 		 ],
-	"super" : "Announcement",
+	"super" : "DCBAnnouncement",
 	"type" : "normal" }

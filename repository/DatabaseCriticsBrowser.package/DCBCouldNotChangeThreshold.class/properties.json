@@ -12,5 +12,5 @@
 	"name" : "DCBCouldNotChangeThreshold",
 	"pools" : [
 		 ],
-	"super" : "Announcement",
+	"super" : "DCBAnnouncement",
 	"type" : "normal" }
