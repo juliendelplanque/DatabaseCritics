@@ -1,5 +1,5 @@
 test-comparing
 testGreater
-	self assert: DCError new > DCWarning new.
-	self assert: DCWarning new > DCInfo new.
-	self assert: DCError new > DCInfo new
+	self assert: DCErrorSeverity new > DCWarningSeverity new.
+	self assert: DCWarningSeverity new > DCInfoSeverity new.
+	self assert: DCErrorSeverity new > DCInfoSeverity new

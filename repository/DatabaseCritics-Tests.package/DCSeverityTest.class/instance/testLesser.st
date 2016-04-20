@@ -1,5 +1,5 @@
 test-comparing
 testLesser
-	self assert: DCWarning new < DCError new.
-	self assert: DCInfo new < DCWarning new.
-	self assert: DCInfo new < DCError new
+	self assert: DCWarningSeverity new < DCErrorSeverity new.
+	self assert: DCInfoSeverity new < DCWarningSeverity new.
+	self assert: DCInfoSeverity new < DCErrorSeverity new
