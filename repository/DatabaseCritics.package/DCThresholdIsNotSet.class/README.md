@@ -1,0 +1,1 @@
+I am the error raised when a rule is run with an unset threshold.
