@@ -1,5 +1,6 @@
 initialization-menu
 initializeHelpIn: group
+	<dcbMenuOrder: 100>
 	group addItem: [ :item | 
 		item
 			name: nil;
