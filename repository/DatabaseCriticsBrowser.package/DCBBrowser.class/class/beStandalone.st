@@ -1,3 +1,0 @@
-accessing
-beStandalone
-	IsStandalone := true

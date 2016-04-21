@@ -2,4 +2,6 @@
 	"class" : {
 		"worldMenuOn:" : "JulienDelplanque 2/18/2016 14:25" },
 	"instance" : {
-		 } }
+		"askAndLoadDump" : "JulienDelplanque 4/21/2016 20:22",
+		"generateModelFromFile:" : "JulienDelplanque 4/21/2016 20:12",
+		"initializeLoadDumpIn:" : "JulienDelplanque 4/21/2016 20:08" } }
