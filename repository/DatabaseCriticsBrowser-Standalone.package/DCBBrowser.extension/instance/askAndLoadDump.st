@@ -1,10 +1,10 @@
 *DatabaseCriticsBrowser-Standalone
 askAndLoadDump
 	| file |
-	file := FileDialogWindow new
-				validExtensions: #(.sql);
-				openModal;
-				openSelectedFile.
+	file := 	UIManager default
+					fileOpen: 'Load a critic'
+					extensions: #('sql')
+					path: FileLocator home.
 	file ifNotNil: [ 
 		| model |
 		[ model := self generateModelFromFile: file ] on: Error do: [ :err |
