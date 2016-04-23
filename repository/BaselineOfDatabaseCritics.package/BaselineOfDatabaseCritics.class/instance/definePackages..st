@@ -12,4 +12,5 @@ definePackages: spec
 		package: 'DatabaseCritics-Scoring-Tests' with: [ spec requires: #('DatabaseCritics-Scoring') ];
 		package: 'DatabaseCritics-Tests' with: [ spec requires: #('DatabaseCritics') ];
 		package: 'DatabaseCriticsBrowser-Tests' with: [ spec requires: #('DatabaseCriticsBrowser') ];
+		package: 'DatabaseCritics-NotReady' with: [ spec requires: #('DatabaseCritics') ];
 		yourself
