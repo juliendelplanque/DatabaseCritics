@@ -1,3 +1,0 @@
-entity-acceptance
-acceptedClasses
-	^ { FAMIXSequence }

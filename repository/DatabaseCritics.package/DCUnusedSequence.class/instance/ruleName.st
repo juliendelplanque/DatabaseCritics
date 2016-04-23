@@ -1,3 +1,0 @@
-accessing
-ruleName
-	^ 'Unused sequence.'
