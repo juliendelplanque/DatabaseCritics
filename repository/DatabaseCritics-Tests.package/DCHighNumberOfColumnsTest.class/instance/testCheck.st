@@ -1,14 +1,6 @@
 tests-entity-checking
 testCheck
-	| test entity entities |
-	self generateModelFrom: self mseString.
-	test := DCHighNumberOfColumns new.
-	"Set test threshold."
-	test threshold: 2.
-	"Test"
-	entity := (model entities detect: [ :e | e name = 'sujet' ]).
-	self assert: (test check: entity).
+	| entity |
+	entity := model entities detect: [ :e | e name = 'foo1' ].
 	
-	entities := (model entities select: [ :e | (test acceptEntity: e) and: [ e name ~= 'sujet' ] ]).
-	entities do: [ :key |
-		self deny: (test check: key) ].
+	self checkTest: (DCHighNumberOfColumns new threshold: 10; yourself) withViolatingEntity: entity

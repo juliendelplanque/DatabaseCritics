@@ -1,13 +1,6 @@
 tests-entity-checking
 testRunOn
-	| test entity entities |
-	self generateModelFrom: self mseString.
-	test := DCMissingPrimaryKey new.
-	entity := (model entities detect: [ :e | e name = 'theme' ]).
-	test runOn: entity.
-	self assert: (test entitiesViolatingTheRule includes: entity).
+	| entity |
+	entity := model entities detect: [ :e | e name = 'foo1' ].
 	
-	entities := (model entities select: [ :e | (test acceptEntity: e) and: [ e name ~= 'theme' ] ]).
-	entities do: [ :key |
-		test runOn: key.
-		self assert: test entitiesViolatingTheRule size equals: 1 ]
+	self runOnTest: DCMissingPrimaryKey new withViolatingEntity: entity

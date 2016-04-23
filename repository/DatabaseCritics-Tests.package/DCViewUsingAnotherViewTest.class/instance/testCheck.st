@@ -1,11 +1,6 @@
 tests-entity-checking
 testCheck
-	| test entity entities |
-	self generateModelFrom: self mseString.
-	test := DCViewUsingAnotherView new.
-	entity := (model entities detect: [ :e | e name = 'barview' ]).
-	self assert: (test check: entity).
+	| entity |
+	entity := model entities detect: [ :e | e name = 'bar_using' ].
 	
-	entities := (model entities select: [ :e | (test acceptEntity: e) and: [ e name ~= 'barview' ] ]).
-	entities do: [ :key |
-		self deny: (test check: key) ]
+	self checkTest: DCViewUsingAnotherView new withViolatingEntity: entity
