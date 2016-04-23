@@ -5,14 +5,7 @@ buildModelWith: aMooseModel
 					name: 'foo';
 					mooseModel: aMooseModel;
 					yourself.
-	1 to: 6 do: [ :i |
-		| column |
-		column := FAMIXColumn new
-						name: ('bar',i asString);
-						mooseModel: aMooseModel;
-						ownerTable: table;
-						yourself.
-		table addColumn: column ].
+	self add: 6 columnsTo: table.
 	
 	viewUsed := FAMIXView new
 						name: 'bar_used';
@@ -23,9 +16,8 @@ buildModelWith: aMooseModel
 		column := FAMIXColumn new
 						name: ('bar_v',i asString);
 						mooseModel: aMooseModel;
-						ownerTable: table;
+						ownerTable: viewUsed;
 						yourself.
-		viewUsed addColumn: column.
 		FAMIXColumnToColumnAssociation new
 			mooseModel: aMooseModel;
 			sourceColumn: column;
@@ -40,9 +32,8 @@ buildModelWith: aMooseModel
 		column := FAMIXColumn new
 						name: ('bar_vu',i asString);
 						mooseModel: aMooseModel;
-						ownerTable: table;
+						ownerTable: viewUsing;
 						yourself.
-		viewUsing addColumn: column.
 		FAMIXColumnToColumnAssociation new
 			mooseModel: aMooseModel;
 			sourceColumn: column;

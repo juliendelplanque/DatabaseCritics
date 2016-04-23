@@ -2,6 +2,7 @@
 	"class" : {
 		 },
 	"instance" : {
+		"add:columnsTo:" : "JulienDelplanque 4/23/2016 15:52",
 		"buildModelWith:" : "JulienDelplanque 4/22/2016 14:45",
 		"checkTest:withViolatingEntity:" : "JulienDelplanque 4/23/2016 12:11",
 		"runOnTest:withViolatingEntity:" : "JulienDelplanque 4/23/2016 12:11",
