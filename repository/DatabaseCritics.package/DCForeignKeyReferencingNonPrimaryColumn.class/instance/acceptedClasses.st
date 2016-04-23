@@ -1,0 +1,3 @@
+entity-acceptance
+acceptedClasses
+	^ { FAMIXTable }
