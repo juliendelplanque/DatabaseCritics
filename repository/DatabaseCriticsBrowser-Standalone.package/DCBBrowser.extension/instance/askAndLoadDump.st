@@ -2,7 +2,7 @@
 askAndLoadDump
 	| file |
 	file := 	UIManager default
-					fileOpen: 'Load a critic'
+					fileOpen: 'Load a SQL dump'
 					extensions: #('sql')
 					path: FileLocator home.
 	file ifNotNil: [ 
