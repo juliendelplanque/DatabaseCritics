@@ -1,3 +1,3 @@
-model-checking
+accessing
 entities
 	^ self model entities
