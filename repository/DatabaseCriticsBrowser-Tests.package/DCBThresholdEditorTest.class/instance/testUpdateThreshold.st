@@ -1,20 +1,19 @@
 tests-actions
 testUpdateThreshold
-	| ruleClass backupThreshold announcement |
-	ruleClass := DCHighNumberOfColumns.
-	backupThreshold := ruleClass threshold.
+	| rule announcement |
+	rule := DCHighNumberOfColumns new.
 	
 	announcement := nil.
 	thresholdEditor announcer
 		when: DCBThresholdChanged , DCBCouldNotChangeThreshold do: [ :ann |
 			announcement := ann ].
 	
-	thresholdEditor ruleClass: ruleClass.
+	thresholdEditor rule: rule.
 	thresholdEditor undefinedCheck state: true.
 	thresholdEditor updateThreshold.
 	self assert: announcement isNotNil.
 	self assert: announcement class equals: DCBThresholdChanged.
-	self assert: announcement ruleClass equals: ruleClass.
+	self assert: announcement rule equals: rule.
 	self assert: announcement newThreshold equals: nil.
 	
 	announcement := nil.
@@ -30,10 +29,6 @@ testUpdateThreshold
 	thresholdEditor updateThreshold.
 	self assert: announcement isNotNil.
 	self assert: announcement class equals: DCBThresholdChanged.
-	self assert: announcement ruleClass equals: ruleClass.
-	self assert: announcement newThreshold equals: 42.
-	
-	backupThreshold
-		ifNil: [ ruleClass resetThreshold ]
-		ifNotNil: [ ruleClass threshold: backupThreshold ]
+	self assert: announcement rule equals: rule.
+	self assert: announcement newThreshold equals: 42
 	

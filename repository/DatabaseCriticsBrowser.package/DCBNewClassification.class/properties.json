@@ -10,5 +10,5 @@
 	"name" : "DCBNewClassification",
 	"pools" : [
 		 ],
-	"super" : "Announcement",
+	"super" : "DCBAnnouncement",
 	"type" : "normal" }

@@ -1,6 +1,8 @@
 buttons-actions
 removeAllAction
+	| itemsToRemove |
+	itemsToRemove := self rightListItems.
 	self listsChooser
 		rightListItems: OrderedCollection new;
-		leftListItems: self leftListInitialItems;
+		leftListItems: (self leftListItems union: itemsToRemove);
 		leftListSelectedIndex: 1

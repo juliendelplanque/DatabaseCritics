@@ -1,5 +1,6 @@
 initialization-menu
 initializeFalsePositivesToolsIn: group
+	<dcbMenuOrder: 30>
 	group addItem: [ :item | 
 		item
 			name: nil;

@@ -1,3 +1,3 @@
 testing
 isApplicable
-	^ self isThresholdSet
+	^ false

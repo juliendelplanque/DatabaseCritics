@@ -6,5 +6,5 @@ defineGroups: spec
 			group: 'scoring' with: #('default' 'DatabaseCritics-Scoring' 'DatabaseCritics-Scoring-Tests');
 			group: 'UI' with: #('default' 'exporter' 'scoring' 'DatabaseCriticsBrowser' 'DatabaseCriticsBrowser-Tests');
 			group: 'UI-standalone' with: #('UI' 'DatabaseCriticsBrowser-Standalone');
-			group: 'dev' with: #('UI-standalone');
+			group: 'dev' with: #('UI-standalone' 'DatabaseCritics-NotReady');
 			yourself

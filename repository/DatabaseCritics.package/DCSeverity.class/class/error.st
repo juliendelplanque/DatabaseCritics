@@ -1,4 +1,4 @@
 error handling
 error
 	"Override so it is possible to do #error asSeverity"
-	^ DCError new
+	^ DCErrorSeverity new

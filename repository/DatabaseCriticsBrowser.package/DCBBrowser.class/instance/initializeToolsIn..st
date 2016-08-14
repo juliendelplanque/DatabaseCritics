@@ -1,5 +1,6 @@
 initialization-menu
 initializeToolsIn: group
+	<dcbMenuOrder: 20>
 	group addItem: [ :item | 
 			item
 				name: nil;

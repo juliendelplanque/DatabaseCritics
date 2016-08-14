@@ -1,3 +1,0 @@
-accessing
-beIntegrated
-	IsStandalone := false

@@ -1,4 +1,1 @@
-I am the severity representing an error.
-
-Example:
-	DCError new
+I am an abstract DatabaseCritics error. All errors defined in this package will subclass me.

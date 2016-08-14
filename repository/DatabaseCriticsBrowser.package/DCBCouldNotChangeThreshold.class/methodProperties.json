@@ -1,10 +1,10 @@
 {
 	"class" : {
-		"ruleClass:inputText:initialError:" : "JulienDelplanque 3/10/2016 13:49" },
+		"rule:inputText:initialError:" : "JulienDelplanque 4/17/2016 16:06" },
 	"instance" : {
 		"initialError" : "JulienDelplanque 3/10/2016 13:53",
 		"initialError:" : "JulienDelplanque 3/10/2016 13:49",
 		"inputText" : "JulienDelplanque 3/10/2016 13:49",
 		"inputText:" : "JulienDelplanque 3/10/2016 13:49",
-		"ruleClass" : "JulienDelplanque 3/10/2016 13:49",
-		"ruleClass:" : "JulienDelplanque 3/10/2016 13:49" } }
+		"rule" : "JulienDelplanque 4/17/2016 16:06",
+		"rule:" : "JulienDelplanque 4/17/2016 16:06" } }

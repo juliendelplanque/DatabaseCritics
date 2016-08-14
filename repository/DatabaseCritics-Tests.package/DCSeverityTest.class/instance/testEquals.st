@@ -1,5 +1,5 @@
 test-comparing
 testEquals
-	self assert: DCWarning new = DCWarning new.
-	self assert: DCInfo new = DCInfo new.
-	self assert: DCError new = DCError new
+	self assert: DCWarningSeverity new = DCWarningSeverity new.
+	self assert: DCInfoSeverity new = DCInfoSeverity new.
+	self assert: DCErrorSeverity new = DCErrorSeverity new

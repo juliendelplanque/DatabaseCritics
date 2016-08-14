@@ -6,10 +6,10 @@
 		 ],
 	"commentStamp" : "JulienDelplanque 3/3/2016 11:52",
 	"instvars" : [
-		"ruleClass",
+		"rule",
 		"newThreshold" ],
 	"name" : "DCBThresholdChanged",
 	"pools" : [
 		 ],
-	"super" : "Announcement",
+	"super" : "DCBAnnouncement",
 	"type" : "normal" }

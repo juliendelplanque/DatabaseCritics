@@ -1,0 +1,1 @@
+I am an abstract DatabaseCriticsBrowser announcement all announcement defined in this package will subclass me.

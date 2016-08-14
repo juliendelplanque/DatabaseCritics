@@ -1,13 +1,6 @@
 tests-entity-checking
 testRunOn
-	| test entity entities |
-	self generateModelFrom: self mseString.
-	test := DCTableUppercase new.
-	entity := (model entities detect: [ :e | e name = 'Theme' ]).
-	test runOn: entity.
-	self assert: (test entitiesViolatingTheRule includes: entity).
+	| entity |
+	entity := model entities detect: [ :e | e name = 'Bar' ].
 	
-	entities := (model entities select: [ :e | (test acceptEntity: e) and: [ e name ~= 'Theme' ] ]).
-	entities do: [ :table |
-		test runOn: table.
-		self assert: test entitiesViolatingTheRule size equals: 1 ]
+	self runOnTest: DCTableUppercase new withViolatingEntity: entity

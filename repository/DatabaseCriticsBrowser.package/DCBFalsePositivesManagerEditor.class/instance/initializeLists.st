@@ -1,9 +1,8 @@
 initialization
 initializeLists
 	rulesList 
-		items: (DCRule falsePositivesManager rulesConcerned
-						select: [ :ruleClass | DCRule falsePositivesManager isThereFalsePositiveFor: ruleClass ]);
-		displayBlock: [ :item | item new ruleName ];
+		items: (self rules select: #hasFalsePositive);
+		displayBlock: [ :item | item ruleName ];
 		whenSelectedItemChanged: [ :item | 
 			item
 				ifNotNil: [ self updateFalsePositivesList ]

@@ -21,5 +21,6 @@ markSelectedEntityAsFalsePositive
 									title: 'Choose the rule of the entity.' ].
 			rule ifNil: [ ^ self ]. "If the rule is nil, it means user cancel the choice." 
 			].
-		DCRule falsePositivesManager mark: entity asFalsePositiveFor: rule.
-		treeListButton updateTree
+		rule addFalsePositive: entity.
+		treeListButton updateTree.
+		self announce: (DCBEntityMarkedAsFalsePositive entity: entity)

@@ -1,3 +1,3 @@
 accessing
 severity
-	^ DCWarning new
+	^ DCWarningSeverity new

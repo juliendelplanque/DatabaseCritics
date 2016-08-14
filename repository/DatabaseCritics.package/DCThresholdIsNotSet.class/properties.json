@@ -1,0 +1,14 @@
+{
+	"category" : "DatabaseCritics-Errors",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 4/17/2016 16:39",
+	"instvars" : [
+		"rule" ],
+	"name" : "DCThresholdIsNotSet",
+	"pools" : [
+		 ],
+	"super" : "DCError",
+	"type" : "normal" }

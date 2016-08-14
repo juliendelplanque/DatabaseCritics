@@ -1,8 +1,8 @@
 test-comparing
 testLesserOrEquals
-	self assert: DCWarning new <= DCError new.
-	self assert: DCInfo new <= DCWarning new.
-	self assert: DCInfo new <= DCError new.
-	self assert: DCWarning new <= DCWarning new.
-	self assert: DCInfo new <= DCInfo new.
-	self assert: DCError new <= DCError new.
+	self assert: DCWarningSeverity new <= DCErrorSeverity new.
+	self assert: DCInfoSeverity new <= DCWarningSeverity new.
+	self assert: DCInfoSeverity new <= DCErrorSeverity new.
+	self assert: DCWarningSeverity new <= DCWarningSeverity new.
+	self assert: DCInfoSeverity new <= DCInfoSeverity new.
+	self assert: DCErrorSeverity new <= DCErrorSeverity new.

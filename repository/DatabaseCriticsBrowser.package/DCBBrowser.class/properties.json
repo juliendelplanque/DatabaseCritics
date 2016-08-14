@@ -1,7 +1,7 @@
 {
 	"category" : "DatabaseCriticsBrowser-Core",
 	"classinstvars" : [
-		"IsStandalone" ],
+		 ],
 	"classvars" : [
 		 ],
 	"commentStamp" : "JulienDelplanque 3/26/2016 11:40",

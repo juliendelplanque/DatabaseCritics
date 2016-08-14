@@ -4,11 +4,11 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "JulienDelplanque 3/19/2016 21:04",
+	"commentStamp" : "JulienDelplanque 4/20/2016 13:50",
 	"instvars" : [
-		"falsePositive" ],
+		"entityName" ],
 	"name" : "DCNoFalsePositive",
 	"pools" : [
 		 ],
-	"super" : "Error",
+	"super" : "DCError",
 	"type" : "normal" }

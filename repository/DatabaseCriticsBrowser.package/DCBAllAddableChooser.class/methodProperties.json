@@ -2,12 +2,12 @@
 	"class" : {
 		 },
 	"instance" : {
-		"addAllAction" : "JulienDelplanque 2/7/2016 17:48",
+		"addAllAction" : "JulienDelplanque 4/20/2016 11:27",
 		"addAllShortcut" : "JulienDelplanque 2/24/2016 07:13",
 		"enableDisableButtons" : "JulienDelplanque 2/25/2016 09:53",
 		"initializeArrows" : "JulienDelplanque 2/25/2016 09:53",
 		"initializeWidgets" : "JulienDelplanque 2/25/2016 09:53",
 		"moveAllFromLeftToRightList" : "JulienDelplanque 2/25/2016 09:53",
 		"moveAllFromRightToLeftList" : "JulienDelplanque 2/25/2016 09:53",
-		"removeAllAction" : "JulienDelplanque 2/7/2016 17:48",
+		"removeAllAction" : "JulienDelplanque 4/20/2016 11:29",
 		"removeAllShortcut" : "JulienDelplanque 2/24/2016 07:13" } }

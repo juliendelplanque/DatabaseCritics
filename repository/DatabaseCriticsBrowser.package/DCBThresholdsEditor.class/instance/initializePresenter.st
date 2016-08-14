@@ -2,10 +2,10 @@ initialization
 initializePresenter
 	super initializePresenter.
 	self thresholdRulesList
-		items: (DCRuleWithThreshold allSubclasses select: [ :class | class isConcrete ]);
-		displayBlock: [ :ruleClass | ruleClass new ruleName ];
+		items: (DCRuleWithThreshold allSubclasses select: #isConcrete thenCollect: #new);
+		displayBlock: [ :rule | rule ruleName ];
 		setIndex: 1;
 		autoDeselect: false;
-		whenSelectedItemChanged: [ :ruleClass | self thresholdEditor ruleClass: ruleClass ].
+		whenSelectedItemChanged: [ :rule | self thresholdEditor rule: rule ].
 	
-	self thresholdEditor ruleClass: self thresholdRulesList selectedItem.
+	self thresholdEditor rule: self thresholdRulesList selectedItem.

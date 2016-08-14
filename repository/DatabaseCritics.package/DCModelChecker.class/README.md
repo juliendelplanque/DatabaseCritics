@@ -1,1 +1,1 @@
-I am the object that collect and run available rules on the model.
+I am the object that collect and run available rules on the Moose model.

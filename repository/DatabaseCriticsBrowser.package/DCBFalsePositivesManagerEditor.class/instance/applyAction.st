@@ -4,10 +4,10 @@ applyAction
 		ifTrue: [ ^ self ].
 	"Else, unmark them and announce the fact that false positives have been updated."
 	falsePositiveToUnmark
-		do: [ :falsePositive | 
-			DCRule falsePositivesManager
-				unmark: falsePositive
-				asFalsePositiveForClass: falsePositive ruleClass ].
+		do: [ :falsePositive |
+			| rule | 
+			rule := self rules detect: [ :r | r class = falsePositive ruleClass ].
+			rule removeFalsePositiveForEntityNamed: falsePositive entityName ].
 	self
 		announce:
 			(DCBFalsePositivesUpdated
