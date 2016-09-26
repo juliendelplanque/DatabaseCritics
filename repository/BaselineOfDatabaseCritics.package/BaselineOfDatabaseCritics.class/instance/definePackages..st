@@ -3,6 +3,7 @@ definePackages: spec
 	^ spec
 		package: 'DatabaseCritics' with: [ spec requires: #('Famix-SQL') ];
 		package: 'DatabaseCritics-GT' with: [ spec requires: #('DatabaseCritics') ];
+		package: 'DatabaseCritics-Tools' with: [ spec requires: #('DatabaseCritics') ];
 		package: 'DatabaseCriticsBrowser' with: [
 			spec
 				requires: #('DatabaseCritics' 'DatabaseCritics-Exporter' 'DatabaseCritics-Scoring' 'HelpCenter' 'SpecModelsAddOns' 'ShortcutsCenter') ];
