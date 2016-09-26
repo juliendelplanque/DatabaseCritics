@@ -6,5 +6,6 @@ defineDependencies: spec
 		specModelsAddOns: spec;
 		shortcutsCenter: spec;
 		xmlWriter: spec;
-		pgDumpLoader: spec.
+		pgDumpLoader: spec;
+		magritte3: spec.
 	^ spec
