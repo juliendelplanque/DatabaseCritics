@@ -1,0 +1,14 @@
+{
+	"category" : "DatabaseCritics-Tools-RuleBuilding",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 9/26/2016 21:55",
+	"instvars" : [
+		"thresholdClassSymbol" ],
+	"name" : "DCRuleWithThresholdDescription",
+	"pools" : [
+		 ],
+	"super" : "DCRuleDescription",
+	"type" : "normal" }

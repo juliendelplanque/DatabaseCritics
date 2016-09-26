@@ -1,0 +1,21 @@
+{
+	"category" : "DatabaseCritics-Tools-RuleBuilding",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 9/25/2016 12:51",
+	"instvars" : [
+		"package",
+		"ruleClassName",
+		"motherClass",
+		"ruleName",
+		"description",
+		"severity",
+		"acceptedClasses",
+		"checkSourceCode" ],
+	"name" : "DCRuleDescription",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
