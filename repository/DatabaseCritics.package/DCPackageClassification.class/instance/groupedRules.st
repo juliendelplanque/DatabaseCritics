@@ -1,3 +1,3 @@
 grouping
 groupedRules
-	^ self rules groupedBy: #package
+	^ self rules groupedBy: [ :rule | rule class package name ]
