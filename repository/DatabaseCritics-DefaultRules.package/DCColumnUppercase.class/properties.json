@@ -1,13 +1,13 @@
 {
-	"category" : "DatabaseCritics-Rules",
+	"category" : "DatabaseCritics-DefaultRules",
 	"classinstvars" : [
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "JulienDelplanque 3/30/2016 17:46",
+	"commentStamp" : "JulienDelplanque 1/28/2016 14:45",
 	"instvars" : [
 		 ],
-	"name" : "DCViewUsingAnotherView",
+	"name" : "DCColumnUppercase",
 	"pools" : [
 		 ],
 	"super" : "DCRule",

@@ -1,13 +1,13 @@
 {
-	"category" : "DatabaseCritics-Rules",
+	"category" : "DatabaseCritics-DefaultRules",
 	"classinstvars" : [
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "JulienDelplanque 1/28/2016 15:15",
+	"commentStamp" : "JulienDelplanque 1/28/2016 14:45",
 	"instvars" : [
 		 ],
-	"name" : "DCTableUppercase",
+	"name" : "DCMissingPrimaryKey",
 	"pools" : [
 		 ],
 	"super" : "DCRule",
