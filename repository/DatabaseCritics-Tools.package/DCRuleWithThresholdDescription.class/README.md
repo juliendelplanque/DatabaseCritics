@@ -1,0 +1,1 @@
+I am the description of a rule with threshold using Magritte framework.
