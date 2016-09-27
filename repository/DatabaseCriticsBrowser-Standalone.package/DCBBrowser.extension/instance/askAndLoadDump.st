@@ -4,13 +4,10 @@ askAndLoadDump
 	file := 	UIManager default
 					fileOpen: 'Load a SQL dump'
 					extensions: #('sql')
-					path: FileLocator home.
+					path: FileSystem workingDirectory.
 	file ifNotNil: [ 
 		| model |
-		[ model := self generateModelFromFile: file ] on: Error do: [ :err |
-				UIManager default
-					abort: 'Error while loading the PostgreSQL dump, aborting. Your file may be malformed.'.
-				^ self ].
+		  model:= (Myrddin getInstance createModelWith: file name folder: '/tmp' xmlSchema: '/tmp/schema.xml') model.
 		self modelChecker: (DCModelChecker on: model).
 		self updateConfigurationWidgets.
 		self informationLabel clearAndDisplay: 'PostgreSQL dump loaded correctly.' during: 3 seconds ]
