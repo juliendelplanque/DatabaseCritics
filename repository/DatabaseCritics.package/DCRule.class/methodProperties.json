@@ -4,7 +4,6 @@
 		"isApplicable" : "JulienDelplanque 3/2/2016 21:56",
 		"useThreshold" : "JulienDelplanque 4/21/2016 21:31" },
 	"instance" : {
-		"accept:" : "JulienDelplanque 4/1/2016 14:01",
 		"acceptEntity:" : "JulienDelplanque 1/28/2016 14:38",
 		"acceptEntityClass:" : "JulienDelplanque 3/23/2016 15:22",
 		"acceptedClasses" : "JulienDelplanque 3/23/2016 15:21",
@@ -17,10 +16,6 @@
 		"entitiesViolatingTheRuleWithoutFalsePositives" : "JulienDelplanque 4/20/2016 13:36",
 		"falsePositives" : "JulienDelplanque 4/20/2016 13:10",
 		"falsePositives:" : "JulienDelplanque 4/20/2016 13:10",
-		"gtChildren" : "JulienDelplanque 4/1/2016 12:24",
-		"gtEntitiesPreviewIn:" : "JulienDelplanque 4/1/2016 12:28",
-		"gtMarkedAsFalsePositivesIn:" : "JulienDelplanque 4/21/2016 22:02",
-		"gtName" : "JulienDelplanque 4/1/2016 12:21",
 		"hasFalsePositive" : "JulienDelplanque 4/20/2016 13:30",
 		"initialize" : "JulienDelplanque 4/20/2016 13:10",
 		"isRule" : "JulienDelplanque 3/23/2016 10:55",
