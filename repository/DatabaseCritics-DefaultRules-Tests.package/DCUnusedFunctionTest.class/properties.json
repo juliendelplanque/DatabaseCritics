@@ -1,13 +1,13 @@
 {
-	"category" : "DatabaseCritics-Tests-Rules",
+	"category" : "DatabaseCritics-DefaultRules-Tests",
 	"classinstvars" : [
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "<historical>",
+	"commentStamp" : "",
 	"instvars" : [
 		 ],
-	"name" : "DCUnusedPrimaryKeyTest",
+	"name" : "DCUnusedFunctionTest",
 	"pools" : [
 		 ],
 	"super" : "DCRuleTest",

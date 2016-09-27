@@ -1,13 +1,13 @@
 {
-	"category" : "DatabaseCritics-Tests-Rules",
+	"category" : "DatabaseCritics-DefaultRules-Tests",
 	"classinstvars" : [
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "",
+	"commentStamp" : "<historical>",
 	"instvars" : [
 		 ],
-	"name" : "DCForeignKeyReferencingNonPrimaryColumnTest",
+	"name" : "DCViewUsingOnlyOneTableTest",
 	"pools" : [
 		 ],
 	"super" : "DCRuleTest",

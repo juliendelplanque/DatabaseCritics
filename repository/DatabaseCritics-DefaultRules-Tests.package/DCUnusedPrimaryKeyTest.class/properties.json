@@ -1,5 +1,5 @@
 {
-	"category" : "DatabaseCritics-Tests-Rules",
+	"category" : "DatabaseCritics-DefaultRules-Tests",
 	"classinstvars" : [
 		 ],
 	"classvars" : [
@@ -7,7 +7,7 @@
 	"commentStamp" : "<historical>",
 	"instvars" : [
 		 ],
-	"name" : "DCViewUsingAnotherViewTest",
+	"name" : "DCUnusedPrimaryKeyTest",
 	"pools" : [
 		 ],
 	"super" : "DCRuleTest",
