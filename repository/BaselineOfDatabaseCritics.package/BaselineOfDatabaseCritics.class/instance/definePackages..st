@@ -3,6 +3,7 @@ definePackages: spec
 	^ spec
 		package: 'DatabaseCritics' with: [ spec requires: #('Famix-SQL') ];
 		package: 'DatabaseCritics-GT' with: [ spec requires: #('DatabaseCritics') ];
+		package: 'DatabaseCritics-DefaultRules' with: [ spec requires: #('DatabaseCritics') ];
 		package: 'DatabaseCritics-Tools' with: [ spec requires: #('DatabaseCritics' 'Magritte') ];
 		package: 'DatabaseCriticsBrowser' with: [
 			spec
@@ -12,6 +13,7 @@ definePackages: spec
 		package: 'DatabaseCritics-Scoring' with: [ spec requires: #('DatabaseCritics') ];
 		package: 'DatabaseCritics-Scoring-Tests' with: [ spec requires: #('DatabaseCritics-Scoring') ];
 		package: 'DatabaseCritics-Tests' with: [ spec requires: #('DatabaseCritics') ];
+		package: 'DatabaseCritics-DefaultRules-Tests' with: [ spec requires: #('DatabaseCritics-DefaultRules') ];
 		package: 'DatabaseCriticsBrowser-Tests' with: [ spec requires: #('DatabaseCriticsBrowser') ];
 		package: 'DatabaseCritics-NotReady' with: [ spec requires: #('DatabaseCritics' 'DatabaseCritics-Tests') ];
 		yourself

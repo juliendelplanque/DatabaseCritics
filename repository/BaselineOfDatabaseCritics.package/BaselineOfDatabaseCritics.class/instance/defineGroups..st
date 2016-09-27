@@ -1,7 +1,7 @@
 groups
 defineGroups: spec
 	^ spec
-			group: 'default' with: #('DatabaseCritics' 'DatabaseCritics-Tests' 'DatabaseCritics-GT');
+			group: 'default' with: #('DatabaseCritics' 'DatabaseCritics-Tests' 'DatabaseCritics-GT' 'DatabaseCritics-DefaultRules' 'DatabaseCritics-DefaultRules-Tests');
 			group: 'tools' with: #('default' 'DatabaseCritics-Tools');
 			group: 'exporter' with: #('default' 'DatabaseCritics-Exporter');
 			group: 'scoring' with: #('default' 'DatabaseCritics-Scoring' 'DatabaseCritics-Scoring-Tests');
