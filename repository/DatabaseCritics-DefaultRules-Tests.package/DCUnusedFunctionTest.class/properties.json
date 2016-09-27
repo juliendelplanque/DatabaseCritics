@@ -1,0 +1,14 @@
+{
+	"category" : "DatabaseCritics-DefaultRules-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "DCUnusedFunctionTest",
+	"pools" : [
+		 ],
+	"super" : "DCRuleTest",
+	"type" : "normal" }

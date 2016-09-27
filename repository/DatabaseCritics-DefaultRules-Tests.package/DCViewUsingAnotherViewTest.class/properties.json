@@ -1,0 +1,14 @@
+{
+	"category" : "DatabaseCritics-DefaultRules-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "DCViewUsingAnotherViewTest",
+	"pools" : [
+		 ],
+	"super" : "DCRuleTest",
+	"type" : "normal" }

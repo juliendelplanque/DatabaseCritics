@@ -1,0 +1,14 @@
+{
+	"category" : "DatabaseCritics-DefaultRules-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "DCTableUppercaseTest",
+	"pools" : [
+		 ],
+	"super" : "DCRuleTest",
+	"type" : "normal" }

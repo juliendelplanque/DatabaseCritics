@@ -1,0 +1,14 @@
+{
+	"category" : "DatabaseCritics-DefaultRules",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 2/17/2016 08:59",
+	"instvars" : [
+		 ],
+	"name" : "DCUnusedFunction",
+	"pools" : [
+		 ],
+	"super" : "DCRule",
+	"type" : "normal" }

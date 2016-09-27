@@ -1,0 +1,14 @@
+{
+	"category" : "DatabaseCritics-DefaultRules",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 1/28/2016 15:15",
+	"instvars" : [
+		 ],
+	"name" : "DCTableUppercase",
+	"pools" : [
+		 ],
+	"super" : "DCRule",
+	"type" : "normal" }

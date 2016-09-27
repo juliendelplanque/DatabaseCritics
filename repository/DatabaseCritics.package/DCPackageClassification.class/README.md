@@ -1,0 +1,1 @@
+I classify rules according to the package in which the class implementing the rule is located.

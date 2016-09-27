@@ -1,0 +1,14 @@
+{
+	"category" : "DatabaseCritics-DefaultRules",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 4/23/2016 16:54",
+	"instvars" : [
+		 ],
+	"name" : "DCForeignKeyReferencingNonPrimaryColumn",
+	"pools" : [
+		 ],
+	"super" : "DCRule",
+	"type" : "normal" }
