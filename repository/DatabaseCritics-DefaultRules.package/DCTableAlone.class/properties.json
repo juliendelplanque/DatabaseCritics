@@ -1,0 +1,14 @@
+{
+	"category" : "DatabaseCritics-DefaultRules",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 11/21/2016 15:09",
+	"instvars" : [
+		 ],
+	"name" : "DCTableAlone",
+	"pools" : [
+		 ],
+	"super" : "DCRule",
+	"type" : "normal" }
