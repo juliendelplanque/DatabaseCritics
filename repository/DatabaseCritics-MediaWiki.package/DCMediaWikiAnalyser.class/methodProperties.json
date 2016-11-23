@@ -1,0 +1,11 @@
+{
+	"class" : {
+		"checkersOnModels:" : "JulienDelplanque 11/23/2016 14:16",
+		"entitiesViolatingCount:" : "JulienDelplanque 11/23/2016 14:19",
+		"generateModelFromDump:" : "JulienDelplanque 11/23/2016 13:22",
+		"generateModelsFromDumpsIn:" : "JulienDelplanque 11/23/2016 14:11",
+		"rulesViolatedCount:" : "JulienDelplanque 11/23/2016 14:18",
+		"versionToInteger:" : "JulienDelplanque 11/23/2016 14:16",
+		"writeResultsAsCSV:in:" : "JulienDelplanque 11/23/2016 14:22" },
+	"instance" : {
+		 } }
