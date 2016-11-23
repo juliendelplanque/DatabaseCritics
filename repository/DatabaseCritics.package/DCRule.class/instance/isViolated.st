@@ -1,0 +1,3 @@
+testing
+isViolated
+	^ self entitiesViolatingTheRuleWithoutFalsePositives isNotEmpty
