@@ -1,0 +1,14 @@
+{
+	"category" : "DatabaseCritics-DefaultRules",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 11/24/2016 14:57",
+	"instvars" : [
+		 ],
+	"name" : "DCHighNumberOfColumnsInSelect",
+	"pools" : [
+		 ],
+	"super" : "DCRuleWithThreshold",
+	"type" : "normal" }
