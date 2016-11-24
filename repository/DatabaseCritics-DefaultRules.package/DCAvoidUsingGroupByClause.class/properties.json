@@ -1,0 +1,14 @@
+{
+	"category" : "DatabaseCritics-DefaultRules",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 11/24/2016 14:54",
+	"instvars" : [
+		 ],
+	"name" : "DCAvoidUsingGroupByClause",
+	"pools" : [
+		 ],
+	"super" : "DCRule",
+	"type" : "normal" }
