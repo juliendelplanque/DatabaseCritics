@@ -1,14 +1,11 @@
 {
-	"category" : "DatabaseCritics-DefaultRules",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "JulienDelplanque 1/28/2016 14:45",
-	"instvars" : [
-		 ],
-	"name" : "DCColumnUppercase",
-	"pools" : [
-		 ],
 	"super" : "DCRule",
-	"type" : "normal" }
+	"category" : "DatabaseCritics-DefaultRules",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "DCColumnUppercase",
+	"type" : "normal"
+}
