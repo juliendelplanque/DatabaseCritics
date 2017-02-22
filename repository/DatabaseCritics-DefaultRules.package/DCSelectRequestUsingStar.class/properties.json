@@ -1,0 +1,14 @@
+{
+	"category" : "DatabaseCritics-DefaultRules",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "DCSelectRequestUsingStar",
+	"pools" : [
+		 ],
+	"super" : "DCRule",
+	"type" : "normal" }
