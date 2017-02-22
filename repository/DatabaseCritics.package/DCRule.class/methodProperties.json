@@ -19,6 +19,7 @@
 		"hasFalsePositive" : "JulienDelplanque 4/20/2016 13:30",
 		"initialize" : "JulienDelplanque 4/20/2016 13:10",
 		"isRule" : "JulienDelplanque 3/23/2016 10:55",
+		"isRuleWithThreshold" : "JulienDelplanque 11/24/2016 20:11",
 		"isViolated" : "JulienDelplanque 11/22/2016 21:31",
 		"removeFalsePositiveForEntityNamed:" : "JulienDelplanque 4/20/2016 13:52",
 		"ruleName" : "JulienDelplanque 3/9/2016 14:46",
