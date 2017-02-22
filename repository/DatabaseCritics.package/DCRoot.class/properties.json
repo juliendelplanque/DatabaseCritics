@@ -1,11 +1,14 @@
 {
-	"commentStamp" : "JulienDelplanque 2/3/2016 08:54",
-	"super" : "DCGroup",
 	"category" : "DatabaseCritics-RulesClassification",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
-	"instvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 2/3/2016 08:54",
+	"instvars" : [
+		 ],
 	"name" : "DCRoot",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "DCGroup",
+	"type" : "normal" }

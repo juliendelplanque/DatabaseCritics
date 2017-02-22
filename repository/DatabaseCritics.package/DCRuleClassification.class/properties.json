@@ -1,16 +1,17 @@
 {
-	"commentStamp" : "JulienDelplanque 4/12/2016 13:44",
-	"super" : "Object",
 	"category" : "DatabaseCritics-RulesClassification",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 4/12/2016 13:44",
 	"instvars" : [
 		"rules",
 		"subgroupClassification",
 		"sortingBlock",
-		"isReverseSort"
-	],
+		"isReverseSort" ],
 	"name" : "DCRuleClassification",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
