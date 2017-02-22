@@ -1,18 +1,17 @@
 {
-	"category" : "DatabaseCritics-FalsePositives",
-	"classinstvars" : [
-		 ],
 	"classtraitcomposition" : "TComparable classTrait",
-	"classvars" : [
-		 ],
-	"commentStamp" : "JulienDelplanque 3/19/2016 19:09",
+	"classvars" : [ ],
 	"instvars" : [
 		"entityName",
 		"entityClass",
-		"ruleClass" ],
+		"ruleClass"
+	],
 	"name" : "DCFalsePositive",
-	"pools" : [
-		 ],
+	"commentStamp" : "JulienDelplanque 3/19/2016 19:09",
 	"super" : "Object",
 	"traitcomposition" : "TComparable",
-	"type" : "normal" }
+	"type" : "normal",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"category" : "DatabaseCritics-FalsePositives"
+}

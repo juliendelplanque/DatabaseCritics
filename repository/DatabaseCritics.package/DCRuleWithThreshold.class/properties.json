@@ -1,14 +1,13 @@
 {
-	"category" : "DatabaseCritics-Core",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "JulienDelplanque 3/2/2016 19:20",
-	"instvars" : [
-		"threshold" ],
-	"name" : "DCRuleWithThreshold",
-	"pools" : [
-		 ],
 	"super" : "DCRule",
-	"type" : "normal" }
+	"category" : "DatabaseCritics-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"threshold"
+	],
+	"name" : "DCRuleWithThreshold",
+	"type" : "normal"
+}

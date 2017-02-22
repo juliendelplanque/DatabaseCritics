@@ -1,12 +1,15 @@
 {
-	"class" : {
-		"named:children:" : "JulienDelplanque 1/28/2016 16:43" },
 	"instance" : {
-		"children" : "JulienDelplanque 1/27/2016 18:26",
-		"children:" : "JulienDelplanque 1/27/2016 18:26",
-		"entitiesViolatingARule" : "JulienDelplanque 1/28/2016 16:58",
+		"rules" : "JulienDelplanque 4/12/2016 13:22",
 		"entitiesViolatingARuleWithoutFalsePositives" : "JulienDelplanque 3/21/2016 08:28",
 		"groupName" : "JulienDelplanque 1/28/2016 16:42",
+		"children:" : "JulienDelplanque 1/27/2016 18:26",
 		"groupName:" : "JulienDelplanque 1/28/2016 16:42",
+		"children" : "JulienDelplanque 1/27/2016 18:26",
 		"isGroup" : "JulienDelplanque 3/23/2016 10:55",
-		"rules" : "JulienDelplanque 4/12/2016 13:22" } }
+		"entitiesViolatingARule" : "JulienDelplanque 1/28/2016 16:58"
+	},
+	"class" : {
+		"named:children:" : "JulienDelplanque 1/28/2016 16:43"
+	}
+}

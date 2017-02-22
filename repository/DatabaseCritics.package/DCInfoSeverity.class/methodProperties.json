@@ -1,6 +1,7 @@
 {
+	"instance" : { },
 	"class" : {
-		"level" : "JulienDelplanque 2/10/2016 16:05",
-		"severityName" : "JulienDelplanque 2/10/2016 16:05" },
-	"instance" : {
-		 } }
+		"severityName" : "JulienDelplanque 2/10/2016 16:05",
+		"level" : "JulienDelplanque 2/10/2016 16:05"
+	}
+}

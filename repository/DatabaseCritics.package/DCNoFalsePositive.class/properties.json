@@ -1,14 +1,13 @@
 {
-	"category" : "DatabaseCritics-Errors",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "JulienDelplanque 4/20/2016 13:50",
-	"instvars" : [
-		"entityName" ],
-	"name" : "DCNoFalsePositive",
-	"pools" : [
-		 ],
 	"super" : "DCError",
-	"type" : "normal" }
+	"category" : "DatabaseCritics-Errors",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"entityName"
+	],
+	"name" : "DCNoFalsePositive",
+	"type" : "normal"
+}

@@ -1,15 +1,14 @@
 {
-	"category" : "DatabaseCritics-Core",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "JulienDelplanque 7/28/2016 21:40",
+	"super" : "Object",
+	"category" : "DatabaseCritics-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"model",
-		"rules" ],
+		"rules"
+	],
 	"name" : "DCModelChecker",
-	"pools" : [
-		 ],
-	"super" : "Object",
-	"type" : "normal" }
+	"type" : "normal"
+}

@@ -1,14 +1,11 @@
 {
-	"category" : "DatabaseCritics-Errors",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "JulienDelplanque 4/20/2016 14:32",
-	"instvars" : [
-		 ],
-	"name" : "DCError",
-	"pools" : [
-		 ],
 	"super" : "Error",
-	"type" : "normal" }
+	"category" : "DatabaseCritics-Errors",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "DCError",
+	"type" : "normal"
+}

@@ -1,15 +1,14 @@
 {
-	"category" : "DatabaseCritics-RulesClassification",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "JulienDelplanque 4/12/2016 13:44",
+	"super" : "Object",
+	"category" : "DatabaseCritics-RulesClassification",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"groupName",
-		"children" ],
+		"children"
+	],
 	"name" : "DCGroup",
-	"pools" : [
-		 ],
-	"super" : "Object",
-	"type" : "normal" }
+	"type" : "normal"
+}

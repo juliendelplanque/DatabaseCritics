@@ -1,14 +1,11 @@
 {
-	"category" : "DatabaseCritics-Severity",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "JulienDelplanque 4/12/2016 13:45",
-	"instvars" : [
-		 ],
-	"name" : "DCErrorSeverity",
-	"pools" : [
-		 ],
 	"super" : "DCSeverity",
-	"type" : "normal" }
+	"category" : "DatabaseCritics-Severity",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "DCErrorSeverity",
+	"type" : "normal"
+}

@@ -1,14 +1,13 @@
 {
-	"category" : "DatabaseCritics-Errors",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "JulienDelplanque 3/2/2016 19:22",
-	"instvars" : [
-		"threshold" ],
-	"name" : "DCBadThresholdType",
-	"pools" : [
-		 ],
 	"super" : "DCError",
-	"type" : "normal" }
+	"category" : "DatabaseCritics-Errors",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"threshold"
+	],
+	"name" : "DCBadThresholdType",
+	"type" : "normal"
+}

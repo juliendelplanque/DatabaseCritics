@@ -1,19 +1,22 @@
 {
-	"class" : {
-		"on:" : "JulienDelplanque 2/18/2016 15:01",
-		"on:withRules:" : "JulienDelplanque 4/21/2016 21:26",
-		"on:withRulesClassesSatisfying:" : "JulienDelplanque 4/21/2016 21:35",
-		"on:withRulesSatisfying:" : "JulienDelplanque 4/21/2016 21:35",
-		"withAllRulesButThresholdsOn:" : "JulienDelplanque 4/21/2016 21:36",
-		"withAllRulesOn:" : "JulienDelplanque 4/21/2016 21:27" },
 	"instance" : {
-		"check:" : "JulienDelplanque 8/3/2016 14:32",
+		"model" : "JulienDelplanque 1/27/2016 14:00",
 		"checkEntities" : "JulienDelplanque 3/9/2016 14:44",
+		"on:" : "JulienDelplanque 2/18/2016 15:00",
+		"model:" : "JulienDelplanque 2/18/2016 15:00",
+		"initialize" : "JulienDelplanque 1/30/2016 11:29",
+		"rules" : "JulienDelplanque 1/27/2016 14:02",
+		"check:" : "JulienDelplanque 8/3/2016 14:32",
 		"coherentRulesFor:" : "JulienDelplanque 2/2/2016 07:50",
 		"entities" : "JulienDelplanque 3/19/2016 11:27",
-		"initialize" : "JulienDelplanque 1/30/2016 11:29",
-		"model" : "JulienDelplanque 1/27/2016 14:00",
-		"model:" : "JulienDelplanque 2/18/2016 15:00",
-		"on:" : "JulienDelplanque 2/18/2016 15:00",
-		"rules" : "JulienDelplanque 1/27/2016 14:02",
-		"rules:" : "JulienDelplanque 2/18/2016 15:01" } }
+		"rules:" : "JulienDelplanque 2/18/2016 15:01"
+	},
+	"class" : {
+		"on:" : "JulienDelplanque 2/18/2016 15:01",
+		"withAllRulesOn:" : "JulienDelplanque 4/21/2016 21:27",
+		"on:withRules:" : "JulienDelplanque 4/21/2016 21:26",
+		"on:withRulesSatisfying:" : "JulienDelplanque 4/21/2016 21:35",
+		"on:withRulesClassesSatisfying:" : "JulienDelplanque 4/21/2016 21:35",
+		"withAllRulesButThresholdsOn:" : "JulienDelplanque 4/21/2016 21:36"
+	}
+}

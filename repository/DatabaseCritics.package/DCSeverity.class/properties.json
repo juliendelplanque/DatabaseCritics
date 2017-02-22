@@ -1,16 +1,13 @@
 {
-	"category" : "DatabaseCritics-Severity",
-	"classinstvars" : [
-		 ],
 	"classtraitcomposition" : "TComparable classTrait",
-	"classvars" : [
-		 ],
-	"commentStamp" : "JulienDelplanque 2/10/2016 16:32",
-	"instvars" : [
-		 ],
+	"classvars" : [ ],
+	"instvars" : [ ],
 	"name" : "DCSeverity",
-	"pools" : [
-		 ],
+	"commentStamp" : "JulienDelplanque 2/10/2016 16:32",
 	"super" : "Object",
 	"traitcomposition" : "TComparable",
-	"type" : "normal" }
+	"type" : "normal",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"category" : "DatabaseCritics-Severity"
+}

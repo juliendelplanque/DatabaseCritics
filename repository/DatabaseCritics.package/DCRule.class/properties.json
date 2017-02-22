@@ -1,15 +1,16 @@
 {
-	"category" : "DatabaseCritics-Core",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		"FalsePositivesManager" ],
 	"commentStamp" : "JulienDelplanque 11/21/2016 14:04",
+	"super" : "Object",
+	"category" : "DatabaseCritics-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"FalsePositivesManager"
+	],
 	"instvars" : [
 		"entitiesViolatingTheRule",
-		"falsePositives" ],
+		"falsePositives"
+	],
 	"name" : "DCRule",
-	"pools" : [
-		 ],
-	"super" : "Object",
-	"type" : "normal" }
+	"type" : "normal"
+}

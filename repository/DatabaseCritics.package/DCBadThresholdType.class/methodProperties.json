@@ -1,6 +1,9 @@
 {
-	"class" : {
-		"threshold:" : "JulienDelplanque 3/2/2016 19:24" },
 	"instance" : {
-		"threshold" : "JulienDelplanque 3/2/2016 19:22",
-		"threshold:" : "JulienDelplanque 3/2/2016 19:25" } }
+		"threshold:" : "JulienDelplanque 3/2/2016 19:25",
+		"threshold" : "JulienDelplanque 3/2/2016 19:22"
+	},
+	"class" : {
+		"threshold:" : "JulienDelplanque 3/2/2016 19:24"
+	}
+}

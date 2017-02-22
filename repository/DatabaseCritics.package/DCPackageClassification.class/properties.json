@@ -1,14 +1,11 @@
 {
-	"category" : "DatabaseCritics-RulesClassification",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "JulienDelplanque 9/27/2016 11:37",
-	"instvars" : [
-		 ],
-	"name" : "DCPackageClassification",
-	"pools" : [
-		 ],
 	"super" : "DCRuleClassification",
-	"type" : "normal" }
+	"category" : "DatabaseCritics-RulesClassification",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "DCPackageClassification",
+	"type" : "normal"
+}
