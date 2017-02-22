@@ -10,4 +10,5 @@ askAndLoadDump
 		  model:= (Myrddin getInstance createModelWith: file name folder: '/tmp' xmlSchema: '/tmp/schema.xml') model.
 		self modelChecker: (DCModelChecker on: model).
 		self updateConfigurationWidgets.
+		self title: self baseTitle , ' - ' , file name.
 		self informationLabel clearAndDisplay: 'PostgreSQL dump loaded correctly.' during: 3 seconds ]

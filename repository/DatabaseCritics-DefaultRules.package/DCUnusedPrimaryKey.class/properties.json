@@ -1,14 +1,11 @@
 {
-	"category" : "DatabaseCritics-DefaultRules",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "JulienDelplanque 3/17/2016 10:01",
-	"instvars" : [
-		 ],
-	"name" : "DCUnusedPrimaryKey",
-	"pools" : [
-		 ],
 	"super" : "DCRule",
-	"type" : "normal" }
+	"category" : "DatabaseCritics-DefaultRules",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "DCUnusedPrimaryKey",
+	"type" : "normal"
+}

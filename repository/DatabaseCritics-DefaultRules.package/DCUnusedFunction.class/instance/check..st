@@ -1,5 +1,9 @@
 entity-checking
 check: aSQLFunction
 	aSQLFunction isStub
-		ifTrue: [ ^ false  ].
-	^ aSQLFunction queryAllLocalIncoming isEmpty
+		ifTrue: [ ^ false ].
+	^ (aSQLFunction calledFromColumns
+		union:
+			(aSQLFunction calledFromExpressions
+				union: (aSQLFunction calledFromFunctions union: aSQLFunction calledFromTriggers)))
+		isEmpty

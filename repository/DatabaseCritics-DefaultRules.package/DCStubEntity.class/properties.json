@@ -1,14 +1,11 @@
 {
-	"category" : "DatabaseCritics-DefaultRules",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "JulienDelplanque 4/23/2016 19:21",
-	"instvars" : [
-		 ],
-	"name" : "DCStubEntity",
-	"pools" : [
-		 ],
 	"super" : "DCRule",
-	"type" : "normal" }
+	"category" : "DatabaseCritics-DefaultRules",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "DCStubEntity",
+	"type" : "normal"
+}

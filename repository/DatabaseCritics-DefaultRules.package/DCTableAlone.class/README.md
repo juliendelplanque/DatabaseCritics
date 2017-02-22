@@ -1,0 +1,1 @@
+I detect tables that are alone. A table is alone if it is referenced by nobody and uses nobody.

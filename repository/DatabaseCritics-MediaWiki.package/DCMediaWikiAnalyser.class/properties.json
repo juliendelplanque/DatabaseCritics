@@ -1,0 +1,14 @@
+{
+	"category" : "DatabaseCritics-MediaWiki-Analysis",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 11/23/2016 13:16",
+	"instvars" : [
+		 ],
+	"name" : "DCMediaWikiAnalyser",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

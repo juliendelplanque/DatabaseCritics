@@ -1,0 +1,1 @@
+Depending on the conventions used, it may be strange to have a column including "id" in its name if it is not a PK or FK.

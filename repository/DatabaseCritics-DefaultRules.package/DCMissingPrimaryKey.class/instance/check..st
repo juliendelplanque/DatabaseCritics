@@ -1,3 +1,3 @@
 entity-checking
 check: aFamixTable
-	^ aFamixTable pkColumns isEmpty
+	^ aFamixTable isStub not and: [aFamixTable pkColumns isEmpty]

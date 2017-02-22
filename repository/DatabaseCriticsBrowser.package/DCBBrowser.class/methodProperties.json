@@ -10,6 +10,7 @@
 		"openCenteredOn:" : "JulienDelplanque 2/3/2016 11:47",
 		"openOn:" : "JulienDelplanque 2/25/2016 09:33" },
 	"instance" : {
+		"baseTitle" : "JulienDelplanque 11/21/2016 14:07",
 		"classificationShortcut" : "JulienDelplanque 2/25/2016 09:22",
 		"delete" : "JulienDelplanque 2/25/2016 09:35",
 		"dependantWidgets" : "JulienDelplanque 3/23/2016 09:44",
@@ -18,7 +19,7 @@
 		"falsePositivesUpdated:" : "JulienDelplanque 3/23/2016 10:15",
 		"helpShortcut" : "JulienDelplanque 2/25/2016 09:23",
 		"informationLabel" : "JulienDelplanque 2/8/2016 14:15",
-		"initialize" : "JulienDelplanque 4/20/2016 14:47",
+		"initialize" : "JulienDelplanque 11/21/2016 14:07",
 		"initializeButtons" : "JulienDelplanque 3/21/2016 08:32",
 		"initializeEntitiesList" : "JulienDelplanque 3/23/2016 11:26",
 		"initializeExportIn:" : "JulienDelplanque 4/21/2016 20:02",

@@ -1,0 +1,1 @@
+Using a star can be problematic in case the target table of the query gets a column added/removed.

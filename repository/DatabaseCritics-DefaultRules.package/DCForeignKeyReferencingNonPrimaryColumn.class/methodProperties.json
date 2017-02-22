@@ -1,9 +1,12 @@
 {
-	"class" : {
-		"isApplicable" : "JulienDelplanque 4/23/2016 16:43" },
 	"instance" : {
-		"acceptedClasses" : "JulienDelplanque 4/23/2016 16:41",
-		"check:" : "JulienDelplanque 4/23/2016 19:13",
 		"description" : "JulienDelplanque 4/23/2016 16:44",
-		"ruleName" : "JulienDelplanque 4/23/2016 16:43",
-		"severity" : "JulienDelplanque 4/23/2016 16:42" } }
+		"check:" : "JulienDelplanque 4/23/2016 19:13",
+		"severity" : "JulienDelplanque 4/23/2016 16:42",
+		"acceptedClasses" : "JulienDelplanque 4/23/2016 16:41",
+		"ruleName" : "JulienDelplanque 4/23/2016 16:43"
+	},
+	"class" : {
+		"isApplicable" : "JulienDelplanque 4/23/2016 16:43"
+	}
+}

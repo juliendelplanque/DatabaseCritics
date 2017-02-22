@@ -1,7 +1,7 @@
 initialization
 initialize
 	super initialize.
-	self title: 'Database Critics Browser'.
+	self title: self baseTitle.
 	self extent: 800@500.
 	
 	classifier := DCNoClassification new.
