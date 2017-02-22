@@ -1,11 +1,14 @@
 {
-	"commentStamp" : "JulienDelplanque 11/24/2016 14:54",
-	"super" : "DCRule",
 	"category" : "DatabaseCritics-DefaultRules",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
-	"instvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 11/24/2016 14:54",
+	"instvars" : [
+		 ],
 	"name" : "DCAvoidUsingGroupByClause",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "DCRule",
+	"type" : "normal" }

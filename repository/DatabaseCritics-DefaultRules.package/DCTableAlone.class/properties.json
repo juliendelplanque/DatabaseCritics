@@ -1,11 +1,14 @@
 {
-	"commentStamp" : "JulienDelplanque 11/21/2016 15:09",
-	"super" : "DCRule",
 	"category" : "DatabaseCritics-DefaultRules",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
-	"instvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 11/21/2016 15:09",
+	"instvars" : [
+		 ],
 	"name" : "DCTableAlone",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "DCRule",
+	"type" : "normal" }
