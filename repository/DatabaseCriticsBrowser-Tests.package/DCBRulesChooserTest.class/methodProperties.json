@@ -1,8 +1,0 @@
-{
-	"class" : {
-		 },
-	"instance" : {
-		"setUp" : "JulienDelplanque 3/18/2016 07:37",
-		"testAnnounceNewRulesSelected" : "JulienDelplanque 3/30/2016 14:47",
-		"testAnyListElementClassIs" : "JulienDelplanque 3/11/2016 08:17",
-		"testLeftListInitialItems" : "JulienDelplanque 4/20/2016 11:30" } }
