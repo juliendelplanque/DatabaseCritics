@@ -8,4 +8,5 @@ defineGroups: spec
 			group: 'UI' with: #('default' 'exporter' 'scoring' 'DatabaseCriticsBrowser' 'DatabaseCriticsBrowser-Tests');
 			group: 'UI-standalone' with: #('UI' 'DatabaseCriticsBrowser-Standalone');
 			group: 'dev' with: #('UI-standalone' 'DatabaseCritics-NotReady');
+			group: 'famix-ng' with: #('DatabaseCritics' 'DatabaseCritics-Tests' 'DatabaseCritics-GT' 'DatabaseCritics-DefaultRules' 'DatabaseCritics-DefaultRules-Tests' 'exporter' 'scoring' 'DatabaseCriticsBrowser' 'DatabaseCriticsBrowser-Tests');
 			yourself
