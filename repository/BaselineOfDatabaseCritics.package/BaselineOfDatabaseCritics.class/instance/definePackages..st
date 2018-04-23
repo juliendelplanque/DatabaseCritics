@@ -1,7 +1,7 @@
 packages
 definePackages: spec
 	^ spec
-		package: 'DatabaseCritics' with: [ spec requires: #('Famix-SQL') ];
+		package: 'DatabaseCritics';
 		package: 'DatabaseCritics-GT' with: [ spec requires: #('DatabaseCritics') ];
 		package: 'DatabaseCritics-DefaultRules' with: [ spec requires: #('DatabaseCritics') ];
 		package: 'DatabaseCritics-Tools' with: [ spec requires: #('DatabaseCritics' 'Magritte') ];
