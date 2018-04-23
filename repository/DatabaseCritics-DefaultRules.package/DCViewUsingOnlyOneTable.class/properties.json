@@ -1,11 +1,14 @@
 {
-	"commentStamp" : "JulienDelplanque 3/30/2016 17:19",
-	"super" : "DCRule",
 	"category" : "DatabaseCritics-DefaultRules",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
-	"instvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 3/30/2016 17:19",
+	"instvars" : [
+		 ],
 	"name" : "DCViewUsingOnlyOneTable",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "DCRule",
+	"type" : "normal" }

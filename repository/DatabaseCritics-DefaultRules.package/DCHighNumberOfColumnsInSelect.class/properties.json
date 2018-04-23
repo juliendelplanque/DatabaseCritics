@@ -1,11 +1,14 @@
 {
-	"commentStamp" : "JulienDelplanque 11/24/2016 14:57",
-	"super" : "DCRuleWithThreshold",
 	"category" : "DatabaseCritics-DefaultRules",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
-	"instvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 11/24/2016 14:57",
+	"instvars" : [
+		 ],
 	"name" : "DCHighNumberOfColumnsInSelect",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "DCRuleWithThreshold",
+	"type" : "normal" }

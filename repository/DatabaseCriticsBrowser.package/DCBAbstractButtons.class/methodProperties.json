@@ -1,9 +1,0 @@
-{
-	"class" : {
-		"defaultSpec" : "JulienDelplanque 2/23/2016 21:09" },
-	"instance" : {
-		"initialize" : "JulienDelplanque 2/10/2016 14:36",
-		"initializeFocus" : "JulienDelplanque 2/10/2016 14:34",
-		"initializeWidgets" : "JulienDelplanque 2/10/2016 14:36",
-		"leftButton" : "JulienDelplanque 2/7/2016 14:13",
-		"rightButton" : "JulienDelplanque 2/7/2016 14:13" } }

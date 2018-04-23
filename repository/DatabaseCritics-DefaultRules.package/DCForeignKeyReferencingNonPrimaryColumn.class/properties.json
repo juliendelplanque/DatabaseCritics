@@ -1,11 +1,14 @@
 {
-	"commentStamp" : "JulienDelplanque 4/23/2016 16:54",
-	"super" : "DCRule",
 	"category" : "DatabaseCritics-DefaultRules",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
-	"instvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 4/23/2016 16:54",
+	"instvars" : [
+		 ],
 	"name" : "DCForeignKeyReferencingNonPrimaryColumn",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "DCRule",
+	"type" : "normal" }

@@ -1,6 +1,7 @@
 initialization
 initialize
 	super initialize.
-	self rules: #().
-	self sortingBlock: [ :a :b | true ]. "Do not sort by default."
-	self isReverseSort: false "We use normal sorting by default."
+	self
+		rules: #();
+		sortingBlock: [ :a :b | true ]; "Do not sort by default."
+		isReverseSort: false "We use normal sorting by default."
